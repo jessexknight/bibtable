@@ -10,7 +10,7 @@ Anbeek2005,"T1, T2, PD, FLAIR, IR","Supervised, K-NN","Private, Vascular",10,1,0
 Garcia-Lorenzo2011,"T1, T2, FLAIR","Unsupervised, Mixture Model, Outlier","Private, MS",10,1,0.65
 Geremia2011,"T1, T2, FLAIR","Supervised, Trees","Challenge, MS 2008, Private, MS",20,2,
 Valverde2016,"T1, FLAIR","Unsupervised, FCM, Tissue Prior, SPM, N3/4","Private, Challenge, MRBrainS 2013, MS, Vascular",33,2,
-VanLeemput2001,"T1, T2, PD","Unsupervised, Mixture Model, Outlier, Bias, Corr, MRF","Private, MS",20,1,0.51
+VanLeemput2001,"T1, T2, PD","Unsupervised, Mixture Model, Outlier, Bias Corr, MRF","Private, MS",20,1,0.51
 Smart2011,"T1, FLAIR","Unsupervised, Threshold, SPM","Private, Dementia",30,1,
 Lao2006,"T1, T2, PD, FLAIR","Supervised, SVM","Private, ACCORD-MIND, Vascular, Diabetes",45,1,
 Khayati2008,FLAIR,"Unsupervised, Mixture Model, MRF","Private, MS",20,1,0.75
@@ -23,7 +23,7 @@ Wu2006,"T1, T2, PD","Supervised, K-NN, Tissue Prior","Private, MS",12,1,
 Schmidt2012,"T1, FLAIR","Unsupervised, Mixture Model, MRF, Threshold, SPM","Private, MS",53,1,0.75
 Herskovits2008,"T1, T2, PD, FLAIR","Supervised, Mixture Model, MRF, FSL","Private, ACCORD-MIND, Vascular, Diabetes",42,2,0.6
 Khademi2012,FLAIR,"Unsupervised, Edge, Threshold","Private, Dementia, Vascular",24,1,0.83
-Jain2015,"T1, FLAIR","Unsupervised, Mixture Model, Bias, Corr, MRF, Outlier, Tissue Prior","Private, MS",20,1,0.67
+Jain2015,"T1, FLAIR","Unsupervised, Mixture Model, Bias Corr, MRF, Outlier, Tissue Prior","Private, MS",20,1,0.67
 Tomas-Fernandez2015,"T1, T2, FLAIR","Unsupervised, Mixture Model, Graph Cuts, Tissue Prior","Challenge, MS 2008, MS",51,2,
 Bricq2008,"T2, FLAIR","Unsupervised, Mixture Model, MRF, Outlier","Challenge, MS 2008, MS",25,2,
 Zhan2017,"T1, T2, FLAIR","Supervised, Log Reg, MRF, FSL, N3/4","Private, Challenge, ACCORD-MIND, MS 2008, Vascular, MS, Diabetes, MS",50,2,0.76
@@ -46,7 +46,7 @@ Jack2001,FLAIR,"Unsupervised, Threshold","Private, Dementia",39,1,
 Steenwijk2013,"T1, FLAIR","Supervised, K-NN, Tissue Prior, FSL","Private, MS",40,2,0.8
 Abdullah2012,"T1, T2, FLAIR","Supervised, SVM, Texture","Challenge, MS 2008, MS",61,3,
 Scully2010,"T1, T2, FLAIR","Supervised, SVM","Private, Lupus",17,1,
-Sweeney2013,"T1, T2, PD, FLAIR","Supervised, Log Reg, Bias, Corr, FSL","Private, MS",111,1,0.61
+Sweeney2013,"T1, T2, PD, FLAIR","Supervised, Log Reg, Bias Corr, FSL","Private, MS",111,1,0.61
 Deshpande2015,"T1, T2, PD, FLAIR","Supervised, Patch, Dictionary","Private, MS",52,1,0.5
 DeBoer2009b,"T1, PD, FLAIR","Supervised, Tissue Prior, Threshold","Private, Vascular, Dementia, Diabetes",20,2,0.72
 Schwarz2009,"T1, T2, PD","Supervised, Mixture Model, MRF","Private, Dementia",165,2,
