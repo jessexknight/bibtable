@@ -1,0 +1,14 @@
+\newcounter{papercount}
+\newcommand{\citefortable}[1]{%
+  \stepcounter{papercount}{\thepapercount}&{\cite{#1}}&{\citeyear{#1}}&{\citeauthor{#1}}}
+\begin{tabular}{cccllccc}
+  \hline
+  \# & Ref. & Year & Authors & MRI Sequences & I & S & SI \\
+  \hline
+__entries__
+  \hline
+\end{tabular}\\[0.5em]
+\raggedright{\footnotesize{Abbreviations.
+I: number of MR image sets used for validation;
+S: number of MRI scanners used for validation;
+SI: reported validation similarity index.}}

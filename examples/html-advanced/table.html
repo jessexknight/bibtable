@@ -1,0 +1,59 @@
+ <html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>Papers Table</title>
+  <link href="./css/bibtable.css" rel="stylesheet" type="text/css"></link>
+  <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+  <script src="./js/tagsort-mod.js" type="text/javascript" charset="utf-8"></script>
+  <script src="./js/jquery.tablesorter.min.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+    $(function(){$('div.tagsort-tags-container').tagSort({items:'.item', tagElement:'span', tagClassPrefix:false, itemTagsView:'.item-tags', sortType:'exclusive'});});
+    $(document).ready(function(){$("#entries").tablesorter({
+      // initial sorting: col "0", then col "1", both ascending
+      sortList: [[0,0], [1,0]]});
+    });
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>Page Title</h1>                                         <!-- EDIT ME -->
+    Some text to appear before the table.                       <!-- EDIT ME -->
+    <div class="tagsort-tags-container">                     <!-- EDIT BELOW -->
+      <div class="tagsort-subcontainer">
+        <h3>MRI</h3>
+__mri:<span>*</span>__
+      </div>
+      <div class="tagsort-subcontainer">
+        <h3>Dataset</h3>
+__data:<span>*</span>__
+      </div>
+      <div class="tagsort-subcontainer">
+        <h3>Models</h3>
+__tags:<span>*</span>__
+      </div>
+    </div>                                                   <!-- EDIT ABOVE -->
+    <br>
+    <table><tr>
+      <th># Papers: </th><td id='active-item-count'></td>
+    </tr></table>
+    <table id="entries" class="tablesorter">
+    <thead>                                                  <!-- EDIT BELOW -->
+      <th>Year</th>
+      <th>Authors</th>
+      <th>Title</th>
+<!--  <th>Journal</th>-->
+      <th>Abstract</th>
+      <th>MRI</th>
+      <th>Tags / Models</th>
+      <th>Dataset(s)</th>
+      <th>#&nbspSubject</th>
+      <th>#&nbspScanner</th>
+      <th>DSC</th>
+    </thead>                                                 <!-- EDIT ABOVE -->
+    <tbody>
+__entries__
+    </tbody>
+    </table>
+    Some text to appear after the table.                        <!-- EDIT ME -->
+  </div>
+</body>
+</html>

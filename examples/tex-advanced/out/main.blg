@@ -1,0 +1,32 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'main.blg'
+[24] biber-MSWIN32:290> INFO - === 
+[40] Biber.pm:351> INFO - Reading 'main.bcf'
+[116] Biber.pm:776> INFO - Found 51 citekeys in bib section 0
+[125] Biber.pm:3493> INFO - Processing section 0
+[139] Biber.pm:3657> INFO - Looking for bibtex format file '../bibfile.bib' for section 0
+[157] bibtex.pm:1187> INFO - Decoding LaTeX character macros into UTF-8
+[174] bibtex.pm:1048> INFO - Found BibTeX data source '../bibfile.bib'
+[180] Utils.pm:149> WARN - Duplicate entry key: 'Roura2015' in file '../bibfile.bib', skipping ...
+[199] Utils.pm:149> WARN - ISBN '0018-9294' in entry 'Harmouche2015' is invalid - run biber with '--validate_datamodel' for details.
+[218] Utils.pm:149> WARN - ISBN '1053-8119' in entry 'Wu2006' is invalid - run biber with '--validate_datamodel' for details.
+[226] Utils.pm:149> WARN - ISBN '0278-0062 VO - 34' in entry 'Tomas-Fernandez2015' is invalid - run biber with '--validate_datamodel' for details.
+[243] Utils.pm:149> WARN - ISBN '1522-2586 (Electronic)$\backslash$r1053-1807 (Linking)' in entry 'Gibson2010' is invalid - run biber with '--validate_datamodel' for details.
+[255] Utils.pm:149> WARN - ISBN '1095-9572 (Electronic)$\backslash$n1053-8119 (Linking)' in entry 'Shiee2010' is invalid - run biber with '--validate_datamodel' for details.
+[277] Utils.pm:149> WARN - ISBN '1053-1807 (Print)$\backslash$r1053-1807 (Linking)' in entry 'Jack2001' is invalid - run biber with '--validate_datamodel' for details.
+[282] Utils.pm:149> WARN - ISBN '1053-8119' in entry 'Griffanti2016' is invalid - run biber with '--validate_datamodel' for details.
+[285] Utils.pm:149> WARN - ISBN '0895-6111' in entry 'Deshpande2015' is invalid - run biber with '--validate_datamodel' for details.
+[371] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[371] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[371] Biber.pm:3306> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'en-US'
+[371] Biber.pm:3310> INFO - No sort tailoring available for locale 'en-US'
+[434] bbl.pm:526> INFO - Writing 'main.bbl' with encoding 'ascii'
+[456] Utils.pm:149> WARN - The entry 'Fartaria2015' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[458] Utils.pm:149> WARN - The entry 'Garcia-Lorenzo2009' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[460] Utils.pm:149> WARN - The entry 'Garcia-Lorenzo2011' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[463] Utils.pm:149> WARN - The entry 'Griffanti2016' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[475] Utils.pm:149> WARN - The entry 'Schmidt2012' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[482] Utils.pm:149> WARN - The entry 'Valverde2016' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[487] Utils.pm:149> WARN - The entry 'Yoo2014' has characters which cannot be encoded in 'ascii'. Recoding problematic characters into macros.
+[489] bbl.pm:619> INFO - Output to main.bbl
+[491] Biber.pm:108> INFO - WARNINGS: 16

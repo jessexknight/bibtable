@@ -1,0 +1,2969 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{Abdullah2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=cd31038b2e2b724f6b37f4619220c45b}{%
+           family={Abdullah},
+           family_i={A\bibinitperiod},
+           given={Bassem\bibnamedelima a},
+           given_i={B\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+        {{hash=935647b797d26d0554fc0db4de46e0c2}{%
+           family={Younis},
+           family_i={Y\bibinitperiod},
+           given={Akmal\bibnamedelima a},
+           given_i={A\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+        {{hash=989ca3ed83beacc2b3f813cfed6c0bf3}{%
+           family={John},
+           family_i={J\bibinitperiod},
+           given={Nigel\bibnamedelima M},
+           given_i={N\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{230d76928ac1c6c6ae22586591c2b080}
+      \strng{fullhash}{f48060c8992d40d349909a5bade7c1a6}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, a new technique is proposed for automatic segmentation of multiple sclerosis (MS) lesions from brain magnetic resonance imaging (MRI) data. The technique uses a trained support vector machine (SVM) to discriminate between the blocks in regions of MS lesions and the blocks in non-MS lesion regions mainly based on the textural features with aid of the other features. The classification is done on each of the axial, sagittal and coronal sectional brain view independently and the resultant segmentations are aggregated to provide more accurate output segmentation. The main contribution of the proposed technique described in this paper is the use of textural features to detect MS lesions in a fully automated approach that does not rely on manually delineating the MS lesions. In addition, the technique introduces the concept of the multi-sectional view segmentation to produce verified segmentation. The proposed textural-based SVM technique was evaluated using three simulated datasets and more than fifty real MRI datasets. The results were compared with state of the art methods. The obtained results indicate that the proposed method would be viable for use in clinical practice for the detection of MS lesions in MRI.}
+      \field{issn}{1874-1207}
+      \field{journaltitle}{The open biomedical engineering journal}
+      \field{title}{Multi-Sectional Views Textural Based SVM for MS Lesion Segmentation in Multi-Channels MRIs}
+      \field{volume}{6}
+      \field{year}{2012}
+      \field{pages}{56\bibrangedash 72}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.2174/1874230001206010056
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Abdullah, Younis, John - 2012 - Multi-Sectional Views Textural Based SVM for MS Lesion Segmentation in Multi-Channels MRIs.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Admiraal-Behloul2005}{article}{}
+      \name{author}{7}{}{%
+        {{hash=414e3585f35caab4c78f8201ad349ba9}{%
+           family={Admiraal-Behloul},
+           family_i={A\bibinithyphendelim B\bibinitperiod},
+           given={F.},
+           given_i={F\bibinitperiod}}}%
+        {{hash=854f4ef69e3c375d83b617861f1db612}{%
+           prefix={van\bibnamedelima den},
+           prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           family={Heuvel},
+           family_i={H\bibinitperiod},
+           given={D.M.J.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=09d1ff453734eb0ea73951a1f87550ef}{%
+           family={Olofsen},
+           family_i={O\bibinitperiod},
+           given={H.},
+           given_i={H\bibinitperiod}}}%
+        {{hash=264415beec84b6d99e21719e7074bf20}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Osch},
+           family_i={O\bibinitperiod},
+           given={M.J.P.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=36498ffa7f91c3487a2fc84595962953}{%
+           prefix={van\bibnamedelima der},
+           prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           family={Grond},
+           family_i={G\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+        {{hash=47f061c480b8b9ed7b60094f9c9d1714}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Buchem},
+           family_i={B\bibinitperiod},
+           given={M.A.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=e586a19897ded13838ae59a722557e70}{%
+           family={Reiber},
+           family_i={R\bibinitperiod},
+           given={J.H.C.},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{11388b7128f9874705c83936c8020b51}
+      \strng{fullhash}{b9e7fc322f85ead149763acdb9cd5a18}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The role of quantitative image analysis in large clinical trials is continuously increasing. Several methods are available for performing white matter hyperintensity (WMH) volume quantification. They vary in the amount of the human interaction involved. In this paper, we describe a fully automatic segmentation that was used to quantify WMHs in a large clinical trial on elderly subjects. Our segmentation method combines information from 3 different MR images: proton density (PD), T2-weighted and fluid-attenuated inversion recovery (FLAIR) images; our method uses an established artificial intelligent technique (fuzzy inference system) and does not require extensive computations. The reproducibility of the segmentation was evaluated in 9 patients who underwent scan\x{fffd}\x{fffd}\x{fffd}rescan with repositioning; an inter-class correlation coefficient (ICC) of 0.91 was obtained. The effect of differences in image resolution was tested in 44 patients, scanned with 6- and 3-mm slice thickness FLAIR images; we obtained an ICC value of 0.99. The accuracy of the segmentation was evaluated on 100 patients for whom manual delineation of WMHs was available; the obtained ICC was 0.98 and the similarity index was 0.75. Besides the fact that the approach demonstrated very high volumetric and spatial agreement with expert delineation, the software did not require more than 2 min per patient (from loading the images to saving the results) on a Pentium-4 processor (512 MB RAM).}
+      \field{issn}{10538119}
+      \field{journaltitle}{NeuroImage}
+      \field{number}{3}
+      \field{title}{Fully automatic segmentation of white matter hyperintensities in MR images of the elderly}
+      \field{volume}{28}
+      \field{year}{2005}
+      \field{pages}{607\bibrangedash 617}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2005.06.061
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Admiraal-Behloul et al. - 2005 - Fully automatic segmentation of white matter hyperintensities in MR images of the elderly.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Akselrod-Ballin2009}{article}{}
+      \name{author}{7}{}{%
+        {{hash=0fb736746b2f93f87f81459cbc7ef59d}{%
+           family={Akselrod-Ballin},
+           family_i={A\bibinithyphendelim B\bibinitperiod},
+           given={Ayelet},
+           given_i={A\bibinitperiod}}}%
+        {{hash=4aa534520139d2e444235f5101214448}{%
+           family={Galun},
+           family_i={G\bibinitperiod},
+           given={Meirav},
+           given_i={M\bibinitperiod}}}%
+        {{hash=7cf64f562807b0306ff799b7a8866deb}{%
+           family={Gomori},
+           family_i={G\bibinitperiod},
+           given={John\bibnamedelima Moshe},
+           given_i={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=92c866b251889b296b3ebba384c5aaa7}{%
+           family={Filippi},
+           family_i={F\bibinitperiod},
+           given={Massimo},
+           given_i={M\bibinitperiod}}}%
+        {{hash=278a894d49e9d1ab991e89b4b373dc14}{%
+           family={Valsasina},
+           family_i={V\bibinitperiod},
+           given={Paola},
+           given_i={P\bibinitperiod}}}%
+        {{hash=0eac1ded6b28606d4c40bbee5adca11f}{%
+           family={Basri},
+           family_i={B\bibinitperiod},
+           given={Ronen},
+           given_i={R\bibinitperiod}}}%
+        {{hash=89345ad5fc3da863be30542d2d6d3bff}{%
+           family={Bradnt},
+           family_i={B\bibinitperiod},
+           given={Achi},
+           given_i={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{46458f71be5eaec596d5c5b4e929f836}
+      \strng{fullhash}{ac0bed56637ae0be29b6097587265d56}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We introduce a multiscale approach that combines segmentation with classification to detect abnormal brain structures in medical imagery, and demonstrate its utility in automatically detecting multiple sclerosis (MS) lesions in 3-D multichannel magnetic resonance (MR) images. Our method uses segmentation to obtain a hierarchical decomposition of a multichannel, anisotropic MR scans. It then produces a rich set of features describing the segments in terms of intensity, shape, location, neighborhood relations, and anatomical context. These features are then fed into a decision forest classifier, trained with data labeled by experts, enabling the detection of lesions at all scales. Unlike common approaches that use voxel-by-voxel analysis, our system can utilize regional properties that are often important for characterizing abnormal brain structures. We provide experiments on two types of real MR images: a multichannel proton-density-, T2-, and T1-weighted dataset of 25 MS patients and a single-channel fluid attenuated inversion recovery (FLAIR) dataset of 16 MS patients. Comparing our results with lesion delineation by a human expert and with previously extensively validated results shows the promise of the approach.}
+      \field{issn}{00189294}
+      \field{journaltitle}{IEEE Transactions on Biomedical Engineering}
+      \field{number}{10}
+      \field{title}{Automatic Segmentation and Classification of Multiple Sclerosis in Multichannel MRI}
+      \field{volume}{56}
+      \field{year}{2009}
+      \field{pages}{2461\bibrangedash 2469}
+      \range{pages}{9}
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2009 - Automatic Segmentation and Classification of Multiple Sclerosis in Multichannel MRI.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Anbeek2005}{article}{}
+      \name{author}{5}{}{%
+        {{hash=570bfe917644c5989fdd9afa2175b895}{%
+           family={Anbeek},
+           family_i={A\bibinitperiod},
+           given={Petronella},
+           given_i={P\bibinitperiod}}}%
+        {{hash=6306fbd89ce9d85b6a0142b7239a834d}{%
+           family={Vincken},
+           family_i={V\bibinitperiod},
+           given={Koen\bibnamedelima L},
+           given_i={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=cf266540fb249ce36afe6eaacc1ec9eb}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Bochove},
+           family_i={B\bibinitperiod},
+           given={Glenda\bibnamedelima S},
+           given_i={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bb8f62d9435c206fe16c758c61a93600}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Osch},
+           family_i={O\bibinitperiod},
+           given={Matthias\bibnamedelimb J\bibnamedelima P},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=d94986c00e12547fbce028960e3fba48}{%
+           prefix={van\bibnamedelima der},
+           prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           family={Grond},
+           family_i={G\bibinitperiod},
+           given={Jeroen},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{549dfd3fbd4b201d6c0bb45d7cba0276}
+      \strng{fullhash}{d89d726a9d42f60ecb0b4eab91900ccc}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new method has been developed for probabilistic segmentation of five different types of brain structures: white matter, gray matter, cerebro-spinal fluid without ventricles, ventricles and white matter lesion in cranial MR imaging. The algorithm is based on information from T1-weighted (T1-w), inversion recovery (IR), proton density-weighted (PD), T2-weighted (T2-w) and fluid attenuation inversion recovery (FLAIR) scans. It uses the K-Nearest Neighbor classification technique that builds a feature space from spatial information and voxel intensities. The technique generates for each tissue type an image representing the probability per voxel being part of it. By application of thresholds on these probability maps, binary segmentations can be obtained. A similarity index (SI) and a probabilistic SI (PSI) were calculated for quantitative evaluation of the results. The influence of each image type on the performance was investigated by alternately leaving out one of the five scan types. This procedure showed that the incorporation of the T1-w, PD or T2-w did not significantly improve the segmentation results. Further investigation indicated that the combination of IR and FLAIR was optimal for segmentation of the five brain tissue types. Evaluation with respect to the gold standard showed that the SI-values for all tissues exceeded 0.8 and all PSI-values exceeded 0.7, implying an excellent agreement.}
+      \field{issn}{1053-8119}
+      \field{journaltitle}{NeuroImage}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Probabilistic segmentation of brain tissue in MR imaging}
+      \field{volume}{27}
+      \field{year}{2005}
+      \field{pages}{795\bibrangedash 804}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2005.05.046
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2005 - Probabilistic segmentation of brain tissue in MR imaging.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Anbeek2004}{article}{}
+      \name{author}{5}{}{%
+        {{hash=570bfe917644c5989fdd9afa2175b895}{%
+           family={Anbeek},
+           family_i={A\bibinitperiod},
+           given={Petronella},
+           given_i={P\bibinitperiod}}}%
+        {{hash=6306fbd89ce9d85b6a0142b7239a834d}{%
+           family={Vincken},
+           family_i={V\bibinitperiod},
+           given={Koen\bibnamedelima L},
+           given_i={K\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=bb8f62d9435c206fe16c758c61a93600}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Osch},
+           family_i={O\bibinitperiod},
+           given={Matthias\bibnamedelimb J\bibnamedelima P},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=aeea2db8c24545f2f065806fac5e56a1}{%
+           family={Bisschops},
+           family_i={B\bibinitperiod},
+           given={Robertus\bibnamedelimb H\bibnamedelima C},
+           given_i={R\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d94986c00e12547fbce028960e3fba48}{%
+           prefix={van\bibnamedelima der},
+           prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           family={Grond},
+           family_i={G\bibinitperiod},
+           given={Jeroen},
+           given_i={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{549dfd3fbd4b201d6c0bb45d7cba0276}
+      \strng{fullhash}{228f4c3beac3e9174712147783b09182}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new method has been developed for fully automated segmentation of white matter lesions (WMLs) in cranial MR imaging. The algorithm uses information from T1-weighted (T1-w), inversion recovery (IR), proton density-weighted (PD), T2-weighted (T2-w) and fluid attenuation inversion recovery (FLAIR) scans. It is based on the K-Nearest Neighbor (KNN) classification technique that builds a feature space from voxel intensities and spatial information. The technique generates images representing the probability per voxel being part of a WML. By application of thresholds on these probability maps, binary segmentations can be obtained. ROC curves show that the segmentations achieve both high sensitivity and specificity. A similarity index (SI), overlap fraction (OF) and extra fraction (EF) are calculated for additional quantitative analysis of the result. The SI is also used for determination of the optimal probability threshold for generation of the binary segmentation. Using probabilistic equivalents of the SI, OF and EF, the probability maps can be evaluated directly, providing a powerful tool for comparison of different classification results. This method for automated WML segmentation reaches an accuracy that is comparable to methods for multiple sclerosis (MS) lesion segmentation and is suitable for detection of WMLs in large and longitudinal population studies.}
+      \field{issn}{1053-8119}
+      \field{journaltitle}{NeuroImage}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{Probabilistic segmentation of white matter lesions in MR imaging}
+      \field{volume}{21}
+      \field{year}{2004}
+      \field{pages}{1037\bibrangedash 44}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2003.10.012
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2004 - Probabilistic segmentation of white matter lesions in MR imaging.pdf:pdf
+      \endverb
+    \endentry
+    \entry{DeBoer2009b}{article}{}
+      \name{author}{8}{}{%
+        {{hash=17a0d8e3788ddbb7a37f834d92c542bf}{%
+           prefix={de},
+           prefix_i={d\bibinitperiod},
+           family={Boer},
+           family_i={B\bibinitperiod},
+           given={Renske},
+           given_i={R\bibinitperiod}}}%
+        {{hash=4dbe1bb0c50ded789346d9b78b8bf504}{%
+           family={Vrooman},
+           family_i={V\bibinitperiod},
+           given={Henri\bibnamedelima A},
+           given_i={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=bce8d3e5ffd295f4b2126d978fe90c50}{%
+           prefix={van\bibnamedelima der},
+           prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           family={Lijn},
+           family_i={L\bibinitperiod},
+           given={Fedde},
+           given_i={F\bibinitperiod}}}%
+        {{hash=38698ab117c365ff2f792ebdd6fb8592}{%
+           family={Vernooij},
+           family_i={V\bibinitperiod},
+           given={Meike\bibnamedelima W},
+           given_i={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b00fe7ce226a413144764e8b85490334}{%
+           family={Ikram},
+           family_i={I\bibinitperiod},
+           given={M\bibnamedelima Arfan},
+           given_i={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d673dc2c9d18962bb53c9099d0fe8ef9}{%
+           prefix={van\bibnamedelima der},
+           prefix_i={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           family={Lugt},
+           family_i={L\bibinitperiod},
+           given={Aad},
+           given_i={A\bibinitperiod}}}%
+        {{hash=c65e339e19699b431b1b098f9f30cb09}{%
+           family={Breteler},
+           family_i={B\bibinitperiod},
+           given={Monique\bibnamedelimb M\bibnamedelima B},
+           given_i={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c85d28492af03c023d266673ff903a58}{%
+           family={Niessen},
+           family_i={N\bibinitperiod},
+           given={Wiro\bibnamedelima J},
+           given_i={W\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f44fb3b5e67564004ad946a4175b00ec}
+      \strng{fullhash}{c7e5dd9a6b49986eed077d677c44f951}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A fully automated brain tissue segmentation method is optimized and extended with white matter lesion segmentation. Cerebrospinal fluid (CSF), gray matter (GM) and white matter (WM) are segmented by an atlas-based k-nearest neighbor classifier on multi-modal magnetic resonance imaging data. This classifier is trained by registering brain atlases to the subject. The resulting GM segmentation is used to automatically find a white matter lesion (WML) threshold in a fluid-attenuated inversion recovery scan. False positive lesions are removed by ensuring that the lesions are within the white matter. The method was visually validated on a set of 209 subjects. No segmentation errors were found in 98{\%} of the brain tissue segmentations and 97{\%} of the WML segmentations. A quantitative evaluation using manual segmentations was performed on a subset of 6 subjects for CSF, GM and WM segmentation and an additional 14 for the WML segmentations. The results indicated that the automatic segmentation accuracy is close to the interobserver variability of manual segmentations.}
+      \field{issn}{1095-9572}
+      \field{journaltitle}{NeuroImage}
+      \field{month}{05}
+      \field{number}{4}
+      \field{title}{White matter lesion extension to automatic brain tissue segmentation on MRI}
+      \field{volume}{45}
+      \field{year}{2009}
+      \field{pages}{1151\bibrangedash 61}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2009.01.011
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/de Boer et al. - 2009 - White matter lesion extension to automatic brain tissue segmentation on MRI.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Bricq2008}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=83a81d19db83abd000f2aea175b5c12b}{%
+           family={Bricq},
+           family_i={B\bibinitperiod},
+           given={S},
+           given_i={S\bibinitperiod}}}%
+        {{hash=a3f3f1ce3bff03e010bcaeb7ab51f73f}{%
+           family={Collet},
+           family_i={C\bibinitperiod},
+           given={Christophe},
+           given_i={C\bibinitperiod}}}%
+        {{hash=daa19d1ed4a7c3388676a784db33ff3f}{%
+           family={Armspach},
+           family_i={A\bibinitperiod},
+           given={Jean-Paul},
+           given_i={J\bibinithyphendelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd565441fb13e6299d964d0017a86fcb}
+      \strng{fullhash}{18e4f83422c62dc3343a4b0bdb192e1b}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, we present a new automatic robust algorithm to segment$\backslash$nmultimodal brain MR images with Multiple Sclerosis (MS) lesions.$\backslash$nThe method performs tissue classification using a Hidden Markov Chain$\backslash$n(HMC) model and detects MS lesions as outliers to the model. For$\backslash$nthis aim, we use the Trimmed Likelihood Estimator (TLE) to extract$\backslash$noutliers. Furthermore, neighborhood information is included using$\backslash$nthe HMC model and we propose to incorporate a priori information$\backslash$nbrought by a probabilistic atlas.}
+      \field{booktitle}{The MIDAS Journal - MS Lesion Segmentation (MICCAI 2008 Workshop)}
+      \field{title}{MS Lesion Segmentation based on Hidden Markov Chains}
+      \field{year}{2008}
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ephanie Bricq, Collet, Armspach - 2008 - MS Lesion Segmentation based on Hidden Markov Chains.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Brosch2015}{book}{}
+      \name{author}{6}{}{%
+        {{hash=36b09f86e81a9d78650c92b80f7a5385}{%
+           family={Brosch},
+           family_i={B\bibinitperiod},
+           given={Tom},
+           given_i={T\bibinitperiod}}}%
+        {{hash=ea200acf2e05c7416993e8f1f85f000e}{%
+           family={Yoo},
+           family_i={Y\bibinitperiod},
+           given={Youngjin},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=88eab287e3865bf1c1def290d8ea308c}{%
+           family={Tang},
+           family_i={T\bibinitperiod},
+           given={Lisa\bibnamedelimb Y\bibnamedelima W},
+           given_i={L\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=8438e737c064a5d9875923a81de4267f}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={David\bibnamedelimb K\bibnamedelima B},
+           given_i={D\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=cdfbb9bbc0dcdead347eae3bcb6f744b}{%
+           family={Traboulsee},
+           family_i={T\bibinitperiod},
+           given={Anthony},
+           given_i={A\bibinitperiod}}}%
+        {{hash=50239638e8c4a4c87d96dd7ba5147098}{%
+           family={Tam},
+           family_i={T\bibinitperiod},
+           given={Roger},
+           given_i={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{29ffde8e1450ae4c5f366344cae8d052}
+      \strng{fullhash}{ffd9b5246eebbf2a9d631259d099a0a5}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present an approach for segmenting low- and high-grade gliomas in multimodal magnetic resonance imaging volumes. The proposed approach is based on a hybrid generative-discriminative model. Firstly, a generative approach based on an Expectation-Maximization framework that incorporates a glioma growth model is used to segment the brain scans into tumor, as well as healthy tissue labels. Secondly, a gradient boosting multi-class classification scheme is used to refine tumor labels based on information from multiple patients. Lastly, a probabilistic Bayesian strategy is employed to further refine and finalize the tumor segmentation based on patient-specific intensity statistics from the multiple modalities. We evaluated our approach in 186 cases during the training phase of the BRAin Tumor Segmentation (BRATS) 2015 challenge and report promising results. During the testing phase, the algorithm was additionally evaluated in 53 unseen cases, achieving the best performance among the competing methods.}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{issn}{16113349}
+      \field{title}{Deep Convolutional Encoder Networks for Multiple Sclerosis Lesion Segmentation}
+      \field{volume}{9556}
+      \field{year}{2015}
+      \field{pages}{144\bibrangedash 155}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1007/978-3-319-30858-6
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Bakas et al. - 2016 - Deep Convolutional Encoder Networks for Multiple Sclerosis Lesion Segmentation.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Dadar2017}{article}{}
+      \name{author}{10}{}{%
+        {{hash=7d4ca01cc880c0d4dc10fcc4458d56c1}{%
+           family={Dadar},
+           family_i={D\bibinitperiod},
+           given={Mahsa},
+           given_i={M\bibinitperiod}}}%
+        {{hash=3fa8c268185f3b97a76e8809b5e99c6a}{%
+           family={Pascoal},
+           family_i={P\bibinitperiod},
+           given={Tharick},
+           given_i={T\bibinitperiod}}}%
+        {{hash=5ed9e9d099a3fc71e8fbc7371ba2bf99}{%
+           family={Manitsirikul},
+           family_i={M\bibinitperiod},
+           given={Sarinporn},
+           given_i={S\bibinitperiod}}}%
+        {{hash=c5105d513da3121bccde041e18cd53a3}{%
+           family={Misquitta},
+           family_i={M\bibinitperiod},
+           given={Karen},
+           given_i={K\bibinitperiod}}}%
+        {{hash=bbb098e21a115ce12e2798c8cebd1b7d}{%
+           family={Tartaglia},
+           family_i={T\bibinitperiod},
+           given={Carmela},
+           given_i={C\bibinitperiod}}}%
+        {{hash=26786a288d6f93712677a8a112e9386c}{%
+           family={Brietner},
+           family_i={B\bibinitperiod},
+           given={John},
+           given_i={J\bibinitperiod}}}%
+        {{hash=cc7d3a36a11a4c571f99fd105af1a901}{%
+           family={Rosa-Neto},
+           family_i={R\bibinithyphendelim N\bibinitperiod},
+           given={Pedro},
+           given_i={P\bibinitperiod}}}%
+        {{hash=67dbebc334ea15ff69a560032a34c6ea}{%
+           family={Carmichael},
+           family_i={C\bibinitperiod},
+           given={Owen},
+           given_i={O\bibinitperiod}}}%
+        {{hash=572fdfe3bf3d40942fa94f25d4aa90e8}{%
+           family={DeCarli},
+           family_i={D\bibinitperiod},
+           given={Charles},
+           given_i={C\bibinitperiod}}}%
+        {{hash=b27ebf82eb7cfe77e97e4657d9112422}{%
+           family={Collins},
+           family_i={C\bibinitperiod},
+           given={D.\bibnamedelimi Louis},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{48507784d27994780816d76df96a1939}
+      \strng{fullhash}{498b15d75d30588abb74f3d343dc84be}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Segmentation and volumetric quantification of white matter hyperintensities (WMHs) is essential in assessment and monitoring of the vascular burden in aging and Alzheimer's disease (AD), especially when considering their effect on cognition. Manually segmenting WMHs in large cohorts is technically unfeasible due to time and accuracy concerns. Automated tools that can detect WMHs robustly and with high accuracy are needed. Here we present and validate a fully automatic technique for segmentation and volumetric quantification of WMHs in aging and AD. The proposed technique combines intensity and location features from multiple magnetic resonance imaging (MRI) contrasts and manually labeled training data with a linear classifier to perform fast and robust segmentations. It provides both a continuous subject specific WMH map reflecting different levels of tissue damage and binary segmentations. The method was used to detect WMHs in 80 elderly/AD brains (ADC dataset) as well as 40 healthy subjects at risk of AD (PREVENT-AD dataset). Robustness across different scanners was validated using 10 subjects from ADNI2/GO study. Voxel-wise and volumetric agreements were evaluated using Dice similarity index (SI) and intra-class correlation (ICC), yielding ICC=0.96, SI=0.62\x{fffd}\x{fffd}0.16 for ADC dataset and ICC=0.78, SI=0.51\x{fffd}\x{fffd}0.15 for PREVENT-AD dataset. The proposed method was robust in the independent sample yielding SI=0.64\x{fffd}\x{fffd}0.17 with ICC=0.93 for ADNI2/GO subjects. The proposed method provides fast, accurate and robust segmentations on previously unseen data from different models of scanners, making it ideal to study WMHs in large scale multi-site studies}
+      \field{issn}{0278-0062}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{number}{PP}
+      \field{title}{Validation of a Regression Technique for Segmentation of White Matter Hyperintensities in Alzheimer's Disease}
+      \field{volume}{99}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/TMI.2017.2693978
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Dadar et al. - 2017 - Validation of a Regression Technique for Segmentation of White Matter Hyperintensities in Alzheimer's Disease.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Datta2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=12d6803e9c4dbc0864feaed5fe092901}{%
+           family={Datta},
+           family_i={D\bibinitperiod},
+           given={Sushmita},
+           given_i={S\bibinitperiod}}}%
+        {{hash=d217baf29856dee65a76f8b5b62fefea}{%
+           family={Narayana},
+           family_i={N\bibinitperiod},
+           given={Ponnada\bibnamedelima A.},
+           given_i={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e3952e3c7a05a03302e7a06b2d3fe96}
+      \strng{fullhash}{e0246034222bb80675f39d8693599158}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Accurate classification and quantification of brain tissues is important for monitoring disease progression, measurement of atrophy, and correlating magnetic resonance (MR) measures with clinical disability. Classification of MR brain images in the presence of lesions, such as multiple sclerosis (MS), is particularly challenging. Images obtained with lower resolution often suffer from partial volume averaging leading to false classifications. While partial volume averaging can be reduced by acquiring volumetric images at high resolution, image segmentation and quantification can be technically challenging. In this study, we integrated the brain anatomical knowledge with non-parametric and parametric statistical classifiers for automatically classifying tissues and lesions on high resolution multichannel three-dimensional images acquired on 60 MS brains. The results of automatic lesion segmentation were reviewed by the expert. The agreement between results obtained by the automated analysis and the expert was excellent as assessed by the quantitative metrics, low absolute volume difference percent (36.18\x{fffd}\x{fffd}34.90), low average symmetric surface distance (1.64mm\x{fffd}\x{fffd}1.30mm), high true positive rate (84.75\x{fffd}\x{fffd}12.69), and low false positive rate (34.10\x{fffd}\x{fffd}16.00). The segmented results were also in close agreement with the corrected results as assessed by Bland\x{fffd}\x{fffd}\x{fffd}Altman and regression analyses. Finally, our lesion segmentation was validated using the MS lesion segmentation grand challenge dataset (MICCAI 2008).}
+      \field{journaltitle}{NeuroImage: Clinical}
+      \field{title}{A comprehensive approach to the segmentation of multichannel three-dimensional MR brain images in multiple sclerosis}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{pages}{184\bibrangedash 196}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.nicl.2012.12.007
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Datta, Narayana - 2013 - A comprehensive approach to the segmentation of multichannel three-dimensional MR brain images in multiple scle.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Deshpande2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=55c427eff18f31379407e510037ae934}{%
+           family={Deshpande},
+           family_i={D\bibinitperiod},
+           given={Hrishikesh},
+           given_i={H\bibinitperiod}}}%
+        {{hash=e8e0afadb1f3094c69d1a69873119cc9}{%
+           family={Maurel},
+           family_i={M\bibinitperiod},
+           given={Pierre},
+           given_i={P\bibinitperiod}}}%
+        {{hash=060a8b406f400a43922c2a5219a12cfe}{%
+           family={Barillot},
+           family_i={B\bibinitperiod},
+           given={Christian},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b7c3119878f00a7f11ab88e4bb9ba3e2}
+      \strng{fullhash}{17d0f733c571add494c0bd8cfa569d56}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a sparse representation and an adaptive dictionary learning based method for automated classification of multiple sclerosis (MS) lesions in magnetic resonance (MR) images. Manual delineation of MS lesions is a time-consuming task, requiring neuroradiology experts to analyze huge volume of MR data. This, in addition to the high intra- and inter-observer variability necessitates the requirement of automated MS lesion classification methods. Among many image representation models and classification methods that can be used for such purpose, we investigate the use of sparse modeling. In the recent years, sparse representation has evolved as a tool in modeling data using a few basis elements of an over-complete dictionary and has found applications in many image processing tasks including classification. We propose a supervised classification approach by learning dictionaries specific to the lesions and individual healthy brain tissues, which include white matter (WM), gray matter (GM) and cerebrospinal fluid (CSF). The size of the dictionaries learned for each class plays a major role in data representation but it is an even more crucial element in the case of competitive classification. Our approach adapts the size of the dictionary for each class, depending on the complexity of the underlying data. The algorithm is validated using 52 multi-sequence MR images acquired from 13 MS patients. The results demonstrate the effectiveness of our approach in MS lesion classification.}
+      \field{isbn}{0895-6111}
+      \field{issn}{18790771}
+      \field{journaltitle}{Computerized Medical Imaging and Graphics}
+      \field{title}{Classification of multiple sclerosis lesions using adaptive dictionary learning}
+      \field{volume}{46}
+      \field{year}{2015}
+      \field{pages}{2\bibrangedash 10}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.compmedimag.2015.05.003
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Deshpande, Maurel, Barillot - 2015 - Classification of multiple sclerosis lesions using adaptive dictionary learning.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Dyrby2008}{article}{}
+      \name{author}{15}{}{%
+        {{hash=2779b41117a83a7c2d131a49aea79b65}{%
+           family={Dyrby},
+           family_i={D\bibinitperiod},
+           given={Tim\bibnamedelima B},
+           given_i={T\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=293181846f722269db962b23e4a0fb37}{%
+           family={Rostrup},
+           family_i={R\bibinitperiod},
+           given={Egill},
+           given_i={E\bibinitperiod}}}%
+        {{hash=728abec94670b5263ed841b177b46140}{%
+           family={Baare},
+           family_i={B\bibinitperiod},
+           given={William\bibnamedelimb F\bibnamedelima C},
+           given_i={W\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0a8c4796fad0a8747a2a48a4c297fb12}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Straaten},
+           family_i={S\bibinitperiod},
+           given={Elisabeth\bibnamedelimb C\bibnamedelima W},
+           given_i={E\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=28650b188d5c5d3bc398f51f2e53d7cf}{%
+           family={Barkhof},
+           family_i={B\bibinitperiod},
+           given={Frederik},
+           given_i={F\bibinitperiod}}}%
+        {{hash=02b2579e975eb8647c37cd2a5906e17c}{%
+           family={Vrenken},
+           family_i={V\bibinitperiod},
+           given={Hugo},
+           given_i={H\bibinitperiod}}}%
+        {{hash=3c47afe2a1512cc26c61c67637e8f315}{%
+           family={Ropele},
+           family_i={R\bibinitperiod},
+           given={Stefan},
+           given_i={S\bibinitperiod}}}%
+        {{hash=1f0645ba7b2f10e41c84717714bfd41a}{%
+           family={Schmidt},
+           family_i={S\bibinitperiod},
+           given={Reinhold},
+           given_i={R\bibinitperiod}}}%
+        {{hash=a53e70a5191be0f8c25b8e56711340ee}{%
+           family={Erkinjuntti},
+           family_i={E\bibinitperiod},
+           given={Timo},
+           given_i={T\bibinitperiod}}}%
+        {{hash=609850a3bd0504ae464d3c40a72f7279}{%
+           family={Wahlund},
+           family_i={W\bibinitperiod},
+           given={Lars-Olof},
+           given_i={L\bibinithyphendelim O\bibinitperiod}}}%
+        {{hash=46d673f0f5d1cef62b93a5dab880a6e7}{%
+           family={Pantoni},
+           family_i={P\bibinitperiod},
+           given={Leonardo},
+           given_i={L\bibinitperiod}}}%
+        {{hash=74f46f4b15135fe2f1fcd48d0927767b}{%
+           family={Inzitari},
+           family_i={I\bibinitperiod},
+           given={Domenico},
+           given_i={D\bibinitperiod}}}%
+        {{hash=8f69d77ef5be346b58397f79ae944748}{%
+           family={Paulson},
+           family_i={P\bibinitperiod},
+           given={Olaf\bibnamedelima B},
+           given_i={O\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=ed831734bce0faca05b77009ee2102fd}{%
+           family={Hansen},
+           family_i={H\bibinitperiod},
+           given={Lars\bibnamedelima Kai},
+           given_i={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=c8b92e1dce102d0878b8d02185d7c8f1}{%
+           family={Waldemar},
+           family_i={W\bibinitperiod},
+           given={Gunhild},
+           given_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{040777ef7a412ad25cdd7153b58299f0}
+      \strng{fullhash}{99ef52e515db26e31d8526e6de0c874d}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Age-related white matter changes (WMC) are thought to be a marker of vascular pathology, and have been associated with motor and cognitive deficits. In the present study, an optimized artificial neural network was used as an automatic segmentation method to produce probabilistic maps of WMC in a clinical multi-center study. The neural network uses information from T1- and T2-weighted and fluid attenuation inversion recovery (FLAIR) magnetic resonance (MR) scans, neighboring voxels and spatial location. Generalizability of the neural network was optimized by including the Optimal Brain Damage (OBD) pruning method in the training stage. Six optimized neural networks were produced to investigate the impact of different input information on WMC segmentation. The automatic segmentation method was applied to MR scans of 362 non-demented elderly subjects from 11 centers in the European multi-center study Leukoaraiosis And Disability (LADIS). Semi-manually delineated WMC were used for validating the segmentation produced by the neural networks. The neural network segmentation demonstrated high consistency between subjects and centers, making it a promising technique for large studies. For WMC volumes less than 10 ml, an increasing discrepancy between semi-manual and neural network segmentation was observed using the similarity index (SI) measure. The use of all three image modalities significantly improved cross-center generalizability compared to neural networks using the FLAIR image only. Expert knowledge not available to the neural networks was a minor source of discrepancy, while variation in MR scan quality constituted the largest source of error.}
+      \field{issn}{1053-8119 (Print)}
+      \field{journaltitle}{NeuroImage}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{Segmentation of age-related white matter changes in a clinical multi-center study.}
+      \field{volume}{41}
+      \field{year}{2008}
+      \field{pages}{335\bibrangedash 345}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2008.02.024
+      \endverb
+    \endentry
+    \entry{Fartaria2015}{article}{}
+      \name{author}{13}{}{%
+        {{hash=ccb5b7d09445bd7ff903456315feb921}{%
+           family={Fartaria},
+           family_i={F\bibinitperiod},
+           given={M\'{a}rio\bibnamedelima Jo\~{a}o},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=dd9eb0b84246b49f1c0b78f55c8bcdc3}{%
+           family={Bonnier},
+           family_i={B\bibinitperiod},
+           given={Guillaume},
+           given_i={G\bibinitperiod}}}%
+        {{hash=b41aef9960ba3cd7928ce77e5d4d3a56}{%
+           family={Roche},
+           family_i={R\bibinitperiod},
+           given={Alexis},
+           given_i={A\bibinitperiod}}}%
+        {{hash=d5746c2c7df86179c728f888633164d1}{%
+           family={Kober},
+           family_i={K\bibinitperiod},
+           given={Tobias},
+           given_i={T\bibinitperiod}}}%
+        {{hash=ef3ff3cff052d929328202525e5c44ec}{%
+           family={Meuli},
+           family_i={M\bibinitperiod},
+           given={Reto},
+           given_i={R\bibinitperiod}}}%
+        {{hash=ea4d629db615183b978000dfb523f3f1}{%
+           family={Rotzinger},
+           family_i={R\bibinitperiod},
+           given={David},
+           given_i={D\bibinitperiod}}}%
+        {{hash=6e4c0971917fd79e1cfb78aee83664c2}{%
+           family={Frackowiak},
+           family_i={F\bibinitperiod},
+           given={Richard},
+           given_i={R\bibinitperiod}}}%
+        {{hash=6c15b313f192f4823546d14c5ff147c5}{%
+           family={Schluep},
+           family_i={S\bibinitperiod},
+           given={Myriam},
+           given_i={M\bibinitperiod}}}%
+        {{hash=8461ce9599af11e12fb4edab66f6fa5e}{%
+           family={{Du Pasquier}},
+           family_i={D\bibinitperiod},
+           given={Renaud},
+           given_i={R\bibinitperiod}}}%
+        {{hash=f906ea076b497b7a36b6330a10d6d98f}{%
+           family={Thiran},
+           family_i={T\bibinitperiod},
+           given={Jean-Philippe},
+           given_i={J\bibinithyphendelim P\bibinitperiod}}}%
+        {{hash=fe8122730238f5235578bbb000887e87}{%
+           family={Krueger},
+           family_i={K\bibinitperiod},
+           given={Gunnar},
+           given_i={G\bibinitperiod}}}%
+        {{hash=ef0fde3004e666942640b9391ac2c262}{%
+           family={{Bach Cuadra}},
+           family_i={B\bibinitperiod},
+           given={Meritxell},
+           given_i={M\bibinitperiod}}}%
+        {{hash=3a16d5d07ccd473c5c3d99540f4de207}{%
+           family={Granziera},
+           family_i={G\bibinitperiod},
+           given={Cristina},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{563c380a2029993568cc81cad222f0c6}
+      \strng{fullhash}{a61eff587773a93f79360b312e6c3f10}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PURPOSE: To develop a method to automatically detect multiple sclerosis (MS) lesions, located both in white matter (WM) and in the cortex, in patients with low disability and early disease stage. MATERIALS AND METHODS: We developed a lesion detection method, based on the k-nearest neighbor (k-NN) technique, to detect lesions as small as 0.0036 mL. This method uses the image intensity information from up to four different 3D magnetic resonance imaging (MRI) sequences (magnetization-prepared rapid gradient-echo, MPRAGE; magnetization-prepared two inversion-contrast rapid gradient-echo, MP2RAGE; 3D fluid-attenuated inversion recovery, FLAIR; and 3D double-inversion recovery, DIR), acquired on a 3T scanner. To these intensity features we added the information obtained by the spatial coordinates and tissue prior probabilities provided by the International Consortium for Brain Mapping (ICBM). Quantitative assessment was done in 39 early-stage MS patients with a "leave-one-out" cross-validation. RESULTS: The best lesion detection rate (DR) performance in WM was obtained using MP2RAGE, FLAIR, and DIR intensities (77{\%} for lesions \x{fffd}\x{fffd}\x{fffd}0.0036 mL; 85{\%} for lesions \x{fffd}\x{fffd}\x{fffd}0.005 mL). Similar results were obtained excluding the DIR intensity as well as when using only MPRAGE and FLAIR (DR = 75{\%}, P = 0.5720). However, the combination of FLAIR with DIR and MP2RAGE appeared to be the best for detecting cortical lesions (DR = 62{\%}), compared to the other combination of sequences (P {<} 0.001). CONCLUSION: For WM lesion detection, similar results were observed when only conventional clinical sequences (FLAIR, MPRAGE) were used compared to a combination of conventional and "advanced" sequences (MP2RAGE, DIR). Cortical lesion detection increased significantly when "advanced" sequences were used. J. Magn. Reson. Imaging 2015.}
+      \field{issn}{1522-2586}
+      \field{journaltitle}{Journal of magnetic resonance imaging : JMRI}
+      \field{month}{11}
+      \field{title}{Automated detection of white matter and cortical lesions in early stages of multiple sclerosis}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1002/jmri.25095
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Fartaria et al. - 2015 - Automated detection of white matter and cortical lesions in early stages of multiple sclerosis.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Garcia-Lorenzo2009}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e1d04eb74abab9236ae19c600fe582d6}{%
+           family={Garc\'{\i{}}a-Lorenzo},
+           family_i={G\bibinithyphendelim L\bibinitperiod},
+           given={Daniel},
+           given_i={D\bibinitperiod}}}%
+        {{hash=72108e724267d2cbcc60abc9414f3080}{%
+           family={Lecoeur},
+           family_i={L\bibinitperiod},
+           given={Jeremy},
+           given_i={J\bibinitperiod}}}%
+        {{hash=978f04d211e892853b177f92f367c3ac}{%
+           family={Arnold},
+           family_i={A\bibinitperiod},
+           given={Douglas\bibnamedelima L},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=311022eed3df6d6251763af6a2e8be69}{%
+           family={Collins},
+           family_i={C\bibinitperiod},
+           given={D\bibnamedelima Louis},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=060a8b406f400a43922c2a5219a12cfe}{%
+           family={Barillot},
+           family_i={B\bibinitperiod},
+           given={Christian},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8751d81193c81ff42d7a910d77eb0adc}
+      \strng{fullhash}{d4ffa7ca9e01cf2723b5c2e63902ae96}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Graph Cuts have been shown as a powerful interactive segmentation technique in several medical domains. We propose to automate the Graph Cuts in order to automatically segment Multiple Sclerosis (MS) lesions in MRI. We replace the manual interaction with a robust EM-based approach in order to discriminate between MS lesions and the Normal Appearing Brain Tissues (NABT). Evaluation is performed in synthetic and real images showing good agreement between the automatic segmentation and the target segmentation. We compare our algorithm with the state of the art techniques and with several manual segmentations. An advantage of our algorithm over previously published ones is the possibility to semi-automatically improve the segmentation due to the Graph Cuts interactive feature.}
+      \field{title}{Multiple Sclerosis lesion segmentation using an automatic multimodal Graph Cuts}
+      \field{year}{2009}
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2009 - Multiple Sclerosis lesion segmentation using an automatic multimodal Graph Cuts.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Garcia-Lorenzo2011}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e1d04eb74abab9236ae19c600fe582d6}{%
+           family={Garc\'{\i{}}a-Lorenzo},
+           family_i={G\bibinithyphendelim L\bibinitperiod},
+           given={Daniel},
+           given_i={D\bibinitperiod}}}%
+        {{hash=bc8b2b70a2f1d65e431187f43ea3bfe1}{%
+           family={Prima},
+           family_i={P\bibinitperiod},
+           given={Sylvain},
+           given_i={S\bibinitperiod}}}%
+        {{hash=978f04d211e892853b177f92f367c3ac}{%
+           family={Arnold},
+           family_i={A\bibinitperiod},
+           given={Douglas\bibnamedelima L},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=311022eed3df6d6251763af6a2e8be69}{%
+           family={Collins},
+           family_i={C\bibinitperiod},
+           given={D\bibnamedelima Louis},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=060a8b406f400a43922c2a5219a12cfe}{%
+           family={Barillot},
+           family_i={B\bibinitperiod},
+           given={Christian},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{8751d81193c81ff42d7a910d77eb0adc}
+      \strng{fullhash}{8e7d7ceed4ed02f10a0d0ea2d96c2986}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We present a new automatic method for segmentation of multiple sclerosis (MS) lesions in magnetic resonance images. The method performs tissue classification using a model of intensities of the normal appearing brain tissues. In order to estimate the model, a trimmed likelihood estimator is initialized with a hierarchical random approach in order to be robust to MS lesions and other outliers present in real images. The algorithm is first evaluated with simulated images to assess the importance of the robust estimator in presence of outliers. The method is then validated using clinical data in which MS lesions were delineated manually by several experts. Our method obtains an average Dice similarity coefficient (DSC) of 0.65, which is close to the average DSC obtained by raters (0.66).}
+      \field{issn}{1558-254X}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{month}{08}
+      \field{number}{8}
+      \field{title}{Trimmed-likelihood estimation for focal lesions and tissue segmentation in multisequence MRI for multiple sclerosis}
+      \field{volume}{30}
+      \field{year}{2011}
+      \field{pages}{1455\bibrangedash 67}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TMI.2011.2114671
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Garc\'{\i}a-Lorenzo et al. - 2011 - Trimmed-likelihood estimation for focal lesions and tissue segmentation in multisequence MRI for multiple.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Geremia2011}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3ee62fd2a2a95b16a2344e7068ad301e}{%
+           family={Geremia},
+           family_i={G\bibinitperiod},
+           given={Ezequiel},
+           given_i={E\bibinitperiod}}}%
+        {{hash=31015ec8035d60f49c799c0742c8b18e}{%
+           family={Clatz},
+           family_i={C\bibinitperiod},
+           given={Olivier},
+           given_i={O\bibinitperiod}}}%
+        {{hash=5dd89bd0bbd11d7e4804c61bf43b2f84}{%
+           family={Menze},
+           family_i={M\bibinitperiod},
+           given={Bjoern\bibnamedelima H},
+           given_i={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=f225ea6221588341169080776608bf01}{%
+           family={Konukoglu},
+           family_i={K\bibinitperiod},
+           given={Ender},
+           given_i={E\bibinitperiod}}}%
+        {{hash=51503dff68ec68a34224e2be9281b7d3}{%
+           family={Criminisi},
+           family_i={C\bibinitperiod},
+           given={Antonio},
+           given_i={A\bibinitperiod}}}%
+        {{hash=4508e505f5ba1748190296dcda952f76}{%
+           family={Ayache},
+           family_i={A\bibinitperiod},
+           given={Nicholas},
+           given_i={N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{cebf3c1b61ba219be789c759eb21ee57}
+      \strng{fullhash}{39d0408f1d8ada1dc74f8f37981956a1}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A new algorithm is presented for the automatic segmentation of Multiple Sclerosis (MS) lesions in 3D Magnetic Resonance (MR) images. It builds on a discriminative random decision forest framework to provide a voxel-wise probabilistic classification of the volume. The method uses multi-channel MR intensities (T1, T2, and FLAIR), knowledge on tissue classes and long-range spatial context to discriminate lesions from background. A symmetry feature is introduced accounting for the fact that some MS lesions tend to develop in an asymmetric way. Quantitative evaluation of the proposed methods is carried out on publicly available labeled cases from the MICCAI MS Lesion Segmentation Challenge 2008 dataset. When tested on the same data, the presented method compares favorably to all earlier methods. In an a posteriori analysis, we show how selected features during classification can be ranked according to their discriminative power and reveal the most important ones.}
+      \field{issn}{1095-9572 (Electronic)}
+      \field{journaltitle}{NeuroImage}
+      \field{month}{07}
+      \field{number}{2}
+      \field{title}{Spatial decision forests for MS lesion segmentation in multi-channel magnetic resonance images}
+      \field{volume}{57}
+      \field{year}{2011}
+      \field{pages}{378\bibrangedash 390}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2011.03.080
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Geremia et al. - 2011 - Spatial decision forests for MS lesion segmentation in multi-channel magnetic resonance images.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Gibson2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=511998ee077d2f4f91173fde8c13e36c}{%
+           family={Gibson},
+           family_i={G\bibinitperiod},
+           given={Erin},
+           given_i={E\bibinitperiod}}}%
+        {{hash=9a1092bc4e1d6366294f6d741b0d7de2}{%
+           family={Gao},
+           family_i={G\bibinitperiod},
+           given={Fuqiang},
+           given_i={F\bibinitperiod}}}%
+        {{hash=ba03388255343178b09ccbf9ec92ea09}{%
+           family={Black},
+           family_i={B\bibinitperiod},
+           given={Sandra\bibnamedelima E.},
+           given_i={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=b37a1c9b7e9caf8c9f0cccf506c5ecca}{%
+           family={Lobaugh},
+           family_i={L\bibinitperiod},
+           given={Nancy\bibnamedelima J.},
+           given_i={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{0168944b6c54d862ef9b3d93250c5d60}
+      \strng{fullhash}{a54190d46d9667831c285650c2c85c5d}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PURPOSE: To determine the precision and accuracy of an automated method for segmenting white matter hyperintensities (WMH) on fast fluid-attenuated inversion-recovery (FLAIR) images in elderly brains at 3T. MATERIALS AND METHODS: FLAIR images from 18 individuals (60-82 years, 9 females) with WMH burdens ranging from 1-80 cm(3) were used. The protocol included the removal of clearly hyperintense voxels; two-class fuzzy C-means clustering (FCM); and thresholding to segment probable WMH. Two false-positive minimization (FPM) methods using white matter templates were tested. Precision was assessed by adding synthetic hyperintense voxels to brain slices. Accuracy was validated by comparing automatic and manual segmentations. Whole-brain, voxel-wise metrics of similarity, under- and overestimation were used to evaluate both precision and accuracy. RESULTS: Precision was high, as the lowest accuracy in the synthetic datasets was 93{\%}. Both FPM strategies successfully improved overall accuracy. Whole-brain accuracy for the FCM segmentation alone ranged from 45{\%}-81{\%}, which improved to 75{\%}-85{\%} using the FPM strategies. CONCLUSION: The method was accurate across the range of WMH burden typically seen in the elderly. Accuracy levels achieved or exceeded those of other approaches using multispectral and/or more sophisticated pattern recognition methods.}
+      \field{isbn}{1522-2586 (Electronic)$\backslash$r1053-1807 (Linking)}
+      \field{issn}{15222586}
+      \field{journaltitle}{Journal of Magnetic Resonance Imaging}
+      \field{month}{06}
+      \field{number}{6}
+      \field{title}{Automatic segmentation of white matter hyperintensities in the elderly using FLAIR images at 3T}
+      \field{volume}{31}
+      \field{year}{2010}
+      \field{pages}{1311\bibrangedash 1322}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1002/jmri.22004
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Gibson et al. - 2010 - Automatic segmentation of white matter hyperintensities in the elderly using FLAIR images at 3T.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Griffanti2016}{article}{}
+      \name{author}{11}{}{%
+        {{hash=3dd69e59e5f6b51fb1a2488340e12f54}{%
+           family={Griffanti},
+           family_i={G\bibinitperiod},
+           given={Ludovica},
+           given_i={L\bibinitperiod}}}%
+        {{hash=2bbf5acd5d7293bf60acd383a4a15447}{%
+           family={Zamboni},
+           family_i={Z\bibinitperiod},
+           given={Giovanna},
+           given_i={G\bibinitperiod}}}%
+        {{hash=808a20b01c9a6cdb5d3d6bc48b72aee7}{%
+           family={Khan},
+           family_i={K\bibinitperiod},
+           given={Aamira},
+           given_i={A\bibinitperiod}}}%
+        {{hash=8802140884170aa843747b8bb14b909a}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={Linxin},
+           given_i={L\bibinitperiod}}}%
+        {{hash=2ac4c97060bc6e256e8ce2ef4b936000}{%
+           family={Bonifacio},
+           family_i={B\bibinitperiod},
+           given={Guendalina},
+           given_i={G\bibinitperiod}}}%
+        {{hash=fb72143ea535769627c45ef442269b6d}{%
+           family={Sundaresan},
+           family_i={S\bibinitperiod},
+           given={Vaanathi},
+           given_i={V\bibinitperiod}}}%
+        {{hash=49fc57c833a4750a0b4337a09815216d}{%
+           family={Schulz},
+           family_i={S\bibinitperiod},
+           given={Ursula\bibnamedelima G.},
+           given_i={U\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f2afca808cf68b7e8762c229abe797c8}{%
+           family={Kuker},
+           family_i={K\bibinitperiod},
+           given={Wilhelm},
+           given_i={W\bibinitperiod}}}%
+        {{hash=0f28ddeafd09e8b1207b255f7f9fc4ec}{%
+           family={Battaglini},
+           family_i={B\bibinitperiod},
+           given={Marco},
+           given_i={M\bibinitperiod}}}%
+        {{hash=fde836c4ab7ecb324eca2cab6184554c}{%
+           family={Rothwell},
+           family_i={R\bibinitperiod},
+           given={Peter\bibnamedelima M.},
+           given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=02d16eb5d8b0d0af1320675587ee5db5}{%
+           family={Jenkinson},
+           family_i={J\bibinitperiod},
+           given={Mark},
+           given_i={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{af42ff7a4f83d09b09602f668e8bd307}
+      \strng{fullhash}{5940cf8a85176ebcda8845253551a079}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Reliable quantification of white matter hyperintensities of presumed vascular origin (WMHs) is increasingly needed, given the presence of these MRI findings in patients with several neurological and vascular disorders, as well as in elderly healthy subjects. We present BIANCA (Brain Intensity AbNormality Classification Algorithm), a fully automated, supervised method for WMH detection, based on the k-nearest neighbour (k-NN) algorithm. Relative to previous k-NN based segmentation methods, BIANCA offers different options for weighting the spatial information, local spatial intensity averaging, and different options for the choice of the number and location of the training points. BIANCA is multimodal and highly flexible so that the user can adapt the tool to their protocol and specific needs. We optimised and validated BIANCA on two datasets with different MRI protocols and patient populations (a \x{fffd}\x{fffd}\x{fffd}predominantly neurodegenerative\x{fffd}\x{fffd}\x{fffd} and a \x{fffd}\x{fffd}\x{fffd}predominantly vascular\x{fffd}\x{fffd}\x{fffd} cohort). BIANCA was first optimised on a subset of images for each dataset in terms of overlap and volumetric agreement with a manually segmented WMH mask. The correlation between the volumes extracted with BIANCA (using the optimised set of options), the volumes extracted from the manual masks and visual ratings showed that BIANCA is a valid alternative to manual segmentation. The optimised set of options was then applied to the whole cohorts and the resulting WMH volume estimates showed good correlations with visual ratings and with age. Finally, we performed a reproducibility test, to evaluate the robustness of BIANCA, and compared BIANCA performance against existing methods. Our findings suggest that BIANCA, which will be freely available as part of the FSL package, is a reliable method for automated WMH segmentation in large cross-sectional cohort studies.}
+      \field{isbn}{1053-8119}
+      \field{issn}{10538119}
+      \field{journaltitle}{NeuroImage}
+      \field{title}{BIANCA (Brain Intensity AbNormality Alassification Algorithm): A new tool for automated segmentation of white matter hyperintensities}
+      \field{volume}{141}
+      \field{year}{2016}
+      \field{pages}{191\bibrangedash 205}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2016.07.018
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Griffanti et al. - 2016 - BIANCA (Brain Intensity AbNormality Alassification Algorithm) A new tool for automated segmentation of white m.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Guizard2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f93ec05cf810dc5f26c6c93ceda3ded8}{%
+           family={Guizard},
+           family_i={G\bibinitperiod},
+           given={Nicolas},
+           given_i={N\bibinitperiod}}}%
+        {{hash=5e090c389461dd452ce5d95b456adbd1}{%
+           family={Coupe},
+           family_i={C\bibinitperiod},
+           given={Pierrick},
+           given_i={P\bibinitperiod}}}%
+        {{hash=217a42217fb340973ecf25ad3d1cefd1}{%
+           family={Fonov},
+           family_i={F\bibinitperiod},
+           given={Vladimir\bibnamedelima S.},
+           given_i={V\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=64cf3f3a00081b08e6e31008da4fe255}{%
+           family={Manjon},
+           family_i={M\bibinitperiod},
+           given={Jose\bibnamedelima V.},
+           given_i={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=e045c2fd7efffbab5877959ef7d0e12f}{%
+           family={Arnold},
+           family_i={A\bibinitperiod},
+           given={Douglas\bibnamedelima L.},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b27ebf82eb7cfe77e97e4657d9112422}{%
+           family={Collins},
+           family_i={C\bibinitperiod},
+           given={D.\bibnamedelimi Louis},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6a196750b5bef96709fd691e739ff9fc}
+      \strng{fullhash}{79b4bd67aafb4ad24f6195ca5d0c6a67}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Multiple sclerosis (MS) lesion segmentation is crucial for evaluating disease burden, determining disease progression and measuring the impact of new clinical treatments. MS lesions can vary in size, location and intensity, making automatic segmentation challenging. In this paper, we propose a new supervised method to segment MS lesions from 3D magnetic resonance (MR) images using non-local means (NLM). The method uses a multi-channel and rotation-invariant distance measure to account for the diversity of MS lesions. The proposed segmentation method, rotation-invariant multi-contrast non-local means segmentation (RMNMS), captures the MS lesion spatial distribution and can accurately and robustly identify lesions regardless of their orientation, shape or size. An internal validation on a large clinical magnetic resonance imaging (MRI) dataset of MS patients demonstrated a good similarity measure result (Dice similarity = 60.1{\%} and sensitivity = 75.4{\%}), a strong correlation between expert and automatic lesion load volumes (R2 = 0.91), and a strong ability to detect lesions of different sizes and in varying spatial locations (lesion detection rate = 79.8{\%}). On the independent MS Grand Challenge (MSGC) dataset validation, our method provided competitive results with state-of-the-art supervised and unsupervised methods. Qualitative visual and quantitative voxel- and lesion-wise evaluations demonstrated the accuracy of RMNMS method.}
+      \field{issn}{22131582}
+      \field{journaltitle}{NeuroImage: Clinical}
+      \field{title}{Rotation-invariant multi-contrast non-local means for MS lesion segmentation}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{pages}{376\bibrangedash 389}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.nicl.2015.05.001
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Guizard et al. - 2015 - Rotation-invariant multi-contrast non-local means for MS lesion segmentation.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Harmouche2006}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=25b9cc0677eb86002d025f784c092461}{%
+           family={Harmouche},
+           family_i={H\bibinitperiod},
+           given={Rola},
+           given_i={R\bibinitperiod}}}%
+        {{hash=2dd68964fc47481d95c1f4e95d723f95}{%
+           family={Collins},
+           family_i={C\bibinitperiod},
+           given={Louis},
+           given_i={L\bibinitperiod}}}%
+        {{hash=f95d6102f6f20db57c2e5e3505a0c374}{%
+           family={Arnold},
+           family_i={A\bibinitperiod},
+           given={Douglas},
+           given_i={D\bibinitperiod}}}%
+        {{hash=52fb045b4962c17ccd195be538e4deae}{%
+           family={Francis},
+           family_i={F\bibinitperiod},
+           given={Simon},
+           given_i={S\bibinitperiod}}}%
+        {{hash=43fa0a1835ef7557ed75fa3413507dcf}{%
+           family={Arbel},
+           family_i={A\bibinitperiod},
+           given={Tal},
+           given_i={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{114be1db709df583bf97cc8d64780830}
+      \strng{fullhash}{eb686b75a41112388f8da416690b9fad}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A fully automatic Bayesian framework for multiple sclerosis (MS) lesion classification is presented, using posterior probability distributions and entropy values to classify normal and lesion tissue. Spatial variability in intensities of multimodal MR images over the brain is explicitly modeled by building region-specific multivariate likelihood distributions. Local smoothness is ensured by incorporating neighboring voxel tissue information using Markov Random fields. A probabilistic measure of confidence for the classification is then presented, which can also be used to assess disease burden. The method was tested on 10 patients with MS by comparing automatically classified lesions, with and without regional information, to manual classifications by five expert raters using volume count and overlap. Results improve with the incorporation of spatial information, and are comparable to manual classifications. This method also enables a more accurate classification in the posterior fossa, where no other method reports success.}
+      \field{booktitle}{Proceedings - International Conference on Pattern Recognition}
+      \field{isbn}{0769525210}
+      \field{issn}{10514651}
+      \field{title}{Bayesian MS lesion classification modeling regional and local spatial information}
+      \field{volume}{3}
+      \field{year}{2006}
+      \field{pages}{984\bibrangedash 987}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ICPR.2006.318
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2006 - Bayesian MS Lesion Classification Modeling Regional and Local Spatial Information.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Harmouche2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=25b9cc0677eb86002d025f784c092461}{%
+           family={Harmouche},
+           family_i={H\bibinitperiod},
+           given={Rola},
+           given_i={R\bibinitperiod}}}%
+        {{hash=31f397381caf5734ee76ed25d9370455}{%
+           family={Subbanna},
+           family_i={S\bibinitperiod},
+           given={Nagesh\bibnamedelima K.},
+           given_i={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b27ebf82eb7cfe77e97e4657d9112422}{%
+           family={Collins},
+           family_i={C\bibinitperiod},
+           given={D.\bibnamedelimi Louis},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e045c2fd7efffbab5877959ef7d0e12f}{%
+           family={Arnold},
+           family_i={A\bibinitperiod},
+           given={Douglas\bibnamedelima L.},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=43fa0a1835ef7557ed75fa3413507dcf}{%
+           family={Arbel},
+           family_i={A\bibinitperiod},
+           given={Tal},
+           given_i={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{114be1db709df583bf97cc8d64780830}
+      \strng{fullhash}{543890f8bad925022d4bb46ccf2c9b36}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Goal: In this paper, a fully automatic probabilistic method for multiple sclerosis (MS) lesion classification is presented, whereby the posterior probability density function over healthy tissues and two types of lesions (T1-hypointense and T2-hyperintense) is generated at every voxel. Methods: During training, the system explicitly models the spatial variability of the intensity distributions throughout the brain by first segmenting it into distinct anatomical regions and then building regional likelihood distributions for each tissue class based on multimodal magnetic resonance image (MRI) intensities. Local class smoothness is ensured by incorporating neighboring voxel information in the prior probability through Markov random fields. The system is tested on two datasets from real multisite clinical trials consisting of multimodal MRIs from a total of 100 patients with MS. Lesion classification results based on the framework are compared with and without the regional information, as well as with other state-of-The-Art methods against the labels from expert manual raters. The metrics for comparison include Dice overlap, sensitivity, and positive predictive rates for both voxel and lesion classifications. Results: Statistically significant improvements in Dice values ( p {<} 0.01), for voxel-based and lesion-based sensitivity values (p {<} 0.001), and positive predictive rates (p {<} 0.001 and p {<} 0.01 respectively) are shown when the proposed method is compared to the method without regional information, and to a widely used method [1]. This holds particularly true in the posterior fossa, an area where classification is very challenging. Significance: The proposed method allows us to provide clinicians with accurate tissue labels for T1-hypointense and T2-hyperintense lesions, two types of lesions that differ in appearance and clinical ramifications, and with a confidence level in the classification, which helps clinicians assess the classification results.}
+      \field{isbn}{0018-9294}
+      \field{issn}{15582531}
+      \field{journaltitle}{IEEE Transactions on Biomedical Engineering}
+      \field{number}{5}
+      \field{title}{Probabilistic multiple sclerosis lesion classification based on modeling regional intensity variability and local neighborhood Information}
+      \field{volume}{62}
+      \field{year}{2015}
+      \field{pages}{1281\bibrangedash 1292}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TBME.2014.2385635
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Harmouche et al. - 2015 - Probabilistic multiple sclerosis lesion classification based on modeling regional intensity variability and lo.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Herskovits2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=b3298fe40fac0be334dcf472d56c3add}{%
+           family={Herskovits},
+           family_i={H\bibinitperiod},
+           given={E\bibnamedelima H},
+           given_i={E\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=ea785985ae73fdc97d081181cf92b223}{%
+           family={Bryan},
+           family_i={B\bibinitperiod},
+           given={R\bibnamedelima N},
+           given_i={R\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=28d96b339abb5a7c03f064a099ee4f02}{%
+           family={Yang},
+           family_i={Y\bibinitperiod},
+           given={F},
+           given_i={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{04f70a010eadff1c3960e0e391f07d47}
+      \strng{fullhash}{04c5df50ff51c534ef86edb9a885633b}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{PURPOSE: Automatic brain-lesion segmentation has the potential to greatly expand the analysis of the relationships between brain function and lesion locations in large-scale epidemiologic studies, such as the ACCORD-MIND study. In this manuscript we describe the design and evaluation of a Bayesian lesion-segmentation method, with the expectation that our approach would segment white-matter brain lesions in MR images without user intervention. MATERIALS AND METHODS: Each ACCORD-MIND subject has T1-weighted, T2-weighted, spin-density-weighted, and FLAIR sequences. The training portion of our algorithm first registers training images to a standard coordinate space; then, it collects statistics that capture signal-intensity information, and residual spatial variability of normal structures and lesions. The classification portion of our algorithm then uses these statistics to segment lesions in images from new subjects, without the need for user intervention. We evaluated this algorithm using 42 subjects with primarily white-matter lesions from the ACCORD-MIND project. RESULTS: Our experiments demonstrated high classification accuracy, using an expert neuroradiologist as a standard. CONCLUSIONS: A Bayesian lesion-segmentation algorithm that collects multi-channel signal-intensity and spatial information from MR images of the brain shows potential for accurately segmenting brain lesions in images obtained from subjects not used in training.}
+      \field{issn}{1896-1126 (Print)}
+      \field{journaltitle}{Advances in medical sciences}
+      \field{number}{2}
+      \field{title}{Automated Bayesian segmentation of microvascular white-matter lesions in the ACCORD-MIND study.}
+      \field{volume}{53}
+      \field{year}{2008}
+      \field{pages}{182\bibrangedash 190}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.2478/v10039-008-0039-3
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2008 - Automated Bayesian Segmentation of Microvascular White-Matter Lesions in the ACCORD-MIND Study.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Jack2001}{article}{}
+      \name{author}{9}{}{%
+        {{hash=1d066d3e869fa17ebad19e47d6b4244f}{%
+           family={Jack},
+           family_i={J\bibinitperiod},
+           given={Clifford\bibnamedelima R},
+           given_i={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=100dd28f90839aeca7a35eb7d66b10a3}{%
+           family={O'Brien},
+           family_i={O\bibinitperiod},
+           given={Peter\bibnamedelima C},
+           given_i={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=658cbd2c330f67b98c20c15fbbf6f681}{%
+           family={Rettman},
+           family_i={R\bibinitperiod},
+           given={Daniel\bibnamedelima W},
+           given_i={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=51620971fcf83c19c4d25801a1b8e243}{%
+           family={Shiung},
+           family_i={S\bibinitperiod},
+           given={Maria\bibnamedelima M},
+           given_i={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0f960ade28380729331bbd1459eb6c03}{%
+           family={Xu},
+           family_i={X\bibinitperiod},
+           given={Yuecheng},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=438684082e258ee1450cace670d5e429}{%
+           family={Muthupillai},
+           family_i={M\bibinitperiod},
+           given={Raja},
+           given_i={R\bibinitperiod}}}%
+        {{hash=b50ffd11c72b7a78505a6e1a62ff71d4}{%
+           family={Manduca},
+           family_i={M\bibinitperiod},
+           given={Armando},
+           given_i={A\bibinitperiod}}}%
+        {{hash=cf43f08c58f291e1e314aa56e464059f}{%
+           family={Avula},
+           family_i={A\bibinitperiod},
+           given={Ramesh},
+           given_i={R\bibinitperiod}}}%
+        {{hash=904a0a4be912832718027e15b32aac51}{%
+           family={Erickson},
+           family_i={E\bibinitperiod},
+           given={Bradley\bibnamedelima J},
+           given_i={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{382b5c5c6bb93e1e1a3bc210b8dce177}
+      \strng{fullhash}{d115e2ff2580f7cb8477ca5cf3d4592a}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The purposes of this study were to develop a method to measure brain and white matter hyperintensity (leukoaraiosis) volume that is based on the segmentation of the intensity histogram of fluid-attenuated inversion recovery (FLAIR) images and to assess the accuracy and reproducibility of the method. Whole-head synthetic image phantoms with manually introduced leukoaraiosis lesions of varying severity were constructed. These synthetic image phantom sets incorporated image contrast and anatomic features that mimicked leukoaraiosis found in real life. One set of synthetic image phantoms was used to develop the segmentation algorithm (FLAIR-histoseg). A second set was used to measure its accuracy. Test retest reproducibility was assessed in 10 elderly volunteers who were imaged twice. The mean absolute error of the FLAIR-histoseg method was 6.6{\%} for measurement of leukoaraiosis volume and 1.4{\%} for brain volume. The mean test retest coefficient of variation was 1.4{\%} for leukoaraiosis volume and 0.3{\%} for brain volume. We conclude that the FLAIR-histoseg method is an accurate and reproducible method for measuring leukoaraiosis and whole-brain volume in elderly subjects.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1053-1807 (Print)$\backslash$r1053-1807 (Linking)}
+      \field{issn}{10531807}
+      \field{journaltitle}{Journal of Magnetic Resonance Imaging}
+      \field{month}{12}
+      \field{number}{6}
+      \field{title}{FLAIR histogram segmentation for measurement of leukoaraiosis volume}
+      \field{volume}{14}
+      \field{year}{2001}
+      \field{pages}{668\bibrangedash 676}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1002/jmri.10011
+      \endverb
+      \verb{eprint}
+      \verb NIHMS150003
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2001 - FLAIR Histogram Segmentation for Measurementof Leukoaraiosis Volume.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Jain2015}{article}{}
+      \name{author}{14}{}{%
+        {{hash=7232a25490dbeb9c887eb8b3b09f3edb}{%
+           family={Jain},
+           family_i={J\bibinitperiod},
+           given={Saurabh},
+           given_i={S\bibinitperiod}}}%
+        {{hash=0e5cad184ea65cf166ff72eea3d507f9}{%
+           family={Sima},
+           family_i={S\bibinitperiod},
+           given={Diana\bibnamedelima M},
+           given_i={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=335107fdca1262719affe59975da9098}{%
+           family={Ribbens},
+           family_i={R\bibinitperiod},
+           given={Annemie},
+           given_i={A\bibinitperiod}}}%
+        {{hash=1fbe4257402191d806666971f5e305ea}{%
+           family={Cambron},
+           family_i={C\bibinitperiod},
+           given={Melissa},
+           given_i={M\bibinitperiod}}}%
+        {{hash=74c53c65ab454a1d59afdc03708e5476}{%
+           family={Maertens},
+           family_i={M\bibinitperiod},
+           given={Anke},
+           given_i={A\bibinitperiod}}}%
+        {{hash=ca69072e38c8aca22220dc78b6df69c8}{%
+           family={{Van Hecke}},
+           family_i={V\bibinitperiod},
+           given={Wim},
+           given_i={W\bibinitperiod}}}%
+        {{hash=3b0229c9e0b421b33ea5762b150e1df3}{%
+           family={{De Mey}},
+           family_i={D\bibinitperiod},
+           given={Johan},
+           given_i={J\bibinitperiod}}}%
+        {{hash=28650b188d5c5d3bc398f51f2e53d7cf}{%
+           family={Barkhof},
+           family_i={B\bibinitperiod},
+           given={Frederik},
+           given_i={F\bibinitperiod}}}%
+        {{hash=26e723a07334356c4b8fb4563062bfbc}{%
+           family={Steenwijk},
+           family_i={S\bibinitperiod},
+           given={Martijn\bibnamedelima D},
+           given_i={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f0023d52a16f5fe35033f17c22c9fa16}{%
+           family={Daams},
+           family_i={D\bibinitperiod},
+           given={Marita},
+           given_i={M\bibinitperiod}}}%
+        {{hash=3a63618823a199bf5a4fb695b9b9c1d6}{%
+           family={Maes},
+           family_i={M\bibinitperiod},
+           given={Frederik},
+           given_i={F\bibinitperiod}}}%
+        {{hash=a56d23006040bd3e6b7db7e4c5840ad6}{%
+           family={{Van Huffel}},
+           family_i={V\bibinitperiod},
+           given={Sabine},
+           given_i={S\bibinitperiod}}}%
+        {{hash=02b2579e975eb8647c37cd2a5906e17c}{%
+           family={Vrenken},
+           family_i={V\bibinitperiod},
+           given={Hugo},
+           given_i={H\bibinitperiod}}}%
+        {{hash=33f6ca25e5d1661e0e3fdf25206cfc08}{%
+           family={Smeets},
+           family_i={S\bibinitperiod},
+           given={Dirk},
+           given_i={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab8d326355f390c78de62f0759a2ed42}
+      \strng{fullhash}{e742474189397158aafcb14a8c24a2b9}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The location and extent of white matter lesions on magnetic resonance imaging (MRI) are important criteria for diagnosis, follow-up and prognosis of multiple sclerosis (MS). Clinical trials have shown that quantitative values, such as lesion volumes, are meaningful in MS prognosis. Manual lesion delineation for the segmentation of lesions is, however, time-consuming and suffers from observer variability. In this paper, we propose MSmetrix, an accurate and reliable automatic method for lesion segmentation based on MRI, independent of scanner or acquisition protocol and without requiring any training data. In MSmetrix, 3D T1-weighted and FLAIR MR images are used in a probabilistic model to detect white matter (WM) lesions as an outlier to normal brain while segmenting the brain tissue into grey matter, WM and cerebrospinal fluid. The actual lesion segmentation is performed based on prior knowledge about the location (within WM) and the appearance (hyperintense on FLAIR) of lesions. The accuracy of MSmetrix is evaluated by comparing its output with expert reference segmentations of 20 MRI datasets of MS patients. Spatial overlap (Dice) between the MSmetrix and the expert lesion segmentation is 0.67 \x{fffd}\x{fffd} 0.11. The intraclass correlation coefficient (ICC) equals 0.8 indicating a good volumetric agreement between the MSmetrix and expert labelling. The reproducibility of MSmetrix' lesion volumes is evaluated based on 10 MS patients, scanned twice with a short interval on three different scanners. The agreement between the first and the second scan on each scanner is evaluated through the spatial overlap and absolute lesion volume difference between them. The spatial overlap was 0.69 \x{fffd}\x{fffd} 0.14 and absolute total lesion volume difference between the two scans was 0.54 \x{fffd}\x{fffd} 0.58 ml. Finally, the accuracy and reproducibility of MSmetrix compare favourably with other publicly available MS lesion segmentation algorithms, applied on the same data using default parameter settings.}
+      \field{issn}{2213-1582}
+      \field{journaltitle}{NeuroImage: Clinical}
+      \field{title}{Automatic segmentation and volumetry of multiple sclerosis brain lesions from MR images}
+      \field{volume}{8}
+      \field{year}{2015}
+      \field{pages}{367\bibrangedash 75}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.nicl.2015.05.003
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Jain et al. - 2015 - Automatic segmentation and volumetry of multiple sclerosis brain lesions from MR images.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Khademi2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fac66a9160ab4f8bb5fa0635137acbe0}{%
+           family={Khademi},
+           family_i={K\bibinitperiod},
+           given={April},
+           given_i={A\bibinitperiod}}}%
+        {{hash=1e3e87362c58faae67efd994b24cc501}{%
+           family={Venetsanopoulos},
+           family_i={V\bibinitperiod},
+           given={Anastasios},
+           given_i={A\bibinitperiod}}}%
+        {{hash=47cfe5e98275abcb5927629b14add4ff}{%
+           family={Moody},
+           family_i={M\bibinitperiod},
+           given={Alan\bibnamedelima R},
+           given_i={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Society of Photo-Optical Instrumentation Engineers}%
+      }
+      \strng{namehash}{ab235f7c1898e0b84f1b257545566091}
+      \strng{fullhash}{3f6b8e3b9c0958bb631fdd9813bda0a1}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An artifact found in magnetic resonance images (MRI) called partial volume averaging (PVA) has received much attention since accurate segmentation of cerebral anatomy and pathology is impeded by this artifact. Traditional neurological segmentation techniques rely on Gaussian mixture models to handle noise and PVA, or high-dimensional feature sets that exploit redundancy in multispectral datasets. Unfortunately, model-based techniques may not be optimal for images with non-Gaussian noise distributions and/or pathology, and multispectral techniques model probabilities instead of the partial volume (PV) fraction. For robust segmentation, a PV fraction estimation approach is developed for cerebral MRI that does not depend on predetermined intensity distribution models or multispectral scans. Instead, the PV fraction is estimated directly from each image using an adaptively defined global edge map constructed by exploiting a relationship between edge content and PVA. The final PVA map is used to segment anatomy and pathology with subvoxel accuracy. Validation on simulated and real, pathology-free T1 MRI (Gaussian noise), as well as pathological fluid attenuation inversion recovery MRI (non-Gaussian noise), demonstrate that the PV fraction is accurately estimated and the resultant segmentation is robust. Comparison to model-based methods further highlight the benefits of the current approach.}
+      \field{issn}{2329-4302}
+      \field{journaltitle}{Journal of Medical Imaging}
+      \field{month}{04}
+      \field{number}{1}
+      \field{title}{Generalized method for partial volume estimation and tissue segmentation in cerebral magnetic resonance images}
+      \field{volume}{1}
+      \field{year}{2014}
+      \field{pages}{14002}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1117/1.JMI.1.1.014002
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2014 - Generalized method for partial volume estimation and tissue segmentation in cerebral magnetic resonance images.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Khademi2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fac66a9160ab4f8bb5fa0635137acbe0}{%
+           family={Khademi},
+           family_i={K\bibinitperiod},
+           given={April},
+           given_i={A\bibinitperiod}}}%
+        {{hash=1e3e87362c58faae67efd994b24cc501}{%
+           family={Venetsanopoulos},
+           family_i={V\bibinitperiod},
+           given={Anastasios},
+           given_i={A\bibinitperiod}}}%
+        {{hash=47cfe5e98275abcb5927629b14add4ff}{%
+           family={Moody},
+           family_i={M\bibinitperiod},
+           given={Alan\bibnamedelima R},
+           given_i={A\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{ab235f7c1898e0b84f1b257545566091}
+      \strng{fullhash}{3f6b8e3b9c0958bb631fdd9813bda0a1}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper discusses a white matter lesion (WML) segmentation scheme for fluid attenuation inversion recovery (FLAIR) MRI. The method computes the volume of lesions with subvoxel precision by accounting for the partial volume averaging (PVA) artifact. As WMLs are related to stroke and carotid disease, accurate volume measurements are most important. Manual volume computation is laborious, subjective, time consuming, and error prone. Automated methods are a nice alternative since they quantify WML volumes in an objective, efficient, and reliable manner. PVA is initially modeled with a localized edge strength measure since PVA resides in the boundaries between tissues. This map is computed in 3-D and is transformed to a global representation to increase robustness to noise. Significant edges correspond to PVA voxels, which are used to find the PVA fraction alpha (amount of each tissue present in mixture voxels). Results on simulated and real FLAIR images show high WML segmentation performance compared to ground truth (98.9{\%} and 83{\%} overlap, respectively), which outperforms other methods. Lesion load studies are included that automatically analyze WML volumes for each brain hemisphere separately. This technique does not require any distributional assumptions/parameters or training samples and is applied on a single MR modality, which is a major advantage compared to the traditional methods.}
+      \field{issn}{1558-2531 (Electronic)}
+      \field{journaltitle}{IEEE transactions on bio-medical engineering}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{Robust white matter lesion segmentation in FLAIR MRI}
+      \field{volume}{59}
+      \field{year}{2012}
+      \field{pages}{860\bibrangedash 871}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TBME.2011.2181167
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/1 - Robust White Matter Lesion Segmentation in FLAIR MRI.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Khayati2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=25adb626fcfc584aa31175b71d8c6003}{%
+           family={Khayati},
+           family_i={K\bibinitperiod},
+           given={Rasoul},
+           given_i={R\bibinitperiod}}}%
+        {{hash=6ca3716a7906954d4c5511a302b9f4bc}{%
+           family={Vafadust},
+           family_i={V\bibinitperiod},
+           given={Mansur},
+           given_i={M\bibinitperiod}}}%
+        {{hash=0f61b464622b18e6f76ebe692f58ac98}{%
+           family={Towhidkhah},
+           family_i={T\bibinitperiod},
+           given={Farzad},
+           given_i={F\bibinitperiod}}}%
+        {{hash=4300109fe09cf109aa13c9fc595e5de7}{%
+           family={Nabavi},
+           family_i={N\bibinitperiod},
+           given={Massood},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{21fb4211c6c8d14ee4ba2af9f352e494}
+      \strng{fullhash}{b93dbc30a3f4519682cb3e75188d0f99}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, an approach is proposed for fully automatic segmentation of MS lesions in fluid attenuated inversion recovery (FLAIR) Magnetic Resonance (MR) images. The proposed approach, based on a Bayesian classifier, utilizes the adaptive mixtures method (AMM) and Markov random field (MRF) model to obtain and upgrade the class conditional probability density function (CCPDF) and the a priori probability of each class. To compare the performance of the proposed approach with those of previous approaches including manual segmentation, the similarity criteria of different slices related to 20 MS patients were calculated. Also, volumetric comparison of lesions volume between the fully automated segmentation and the gold standard was performed using correlation coefficient (CC). The results showed a better performance for the proposed approach, compared to those of previous works.}
+      \field{issn}{0010-4825 (Print)}
+      \field{journaltitle}{Computers in biology and medicine}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{Fully automatic segmentation of multiple sclerosis lesions in brain MR FLAIR images using adaptive mixtures method and Markov random field model}
+      \field{volume}{38}
+      \field{year}{2008}
+      \field{pages}{379\bibrangedash 390}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.compbiomed.2007.12.005
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Khayati et al. - 2008 - Fully automatic segmentation of multiple sclerosis lesions in brain MR FLAIR images using adaptive mixtures meth.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Knight2016a}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=d98f9ca9cad621ecf157edd928ec65a8}{%
+           family={Knight},
+           family_i={K\bibinitperiod},
+           given={Jesse},
+           given_i={J\bibinitperiod}}}%
+        {{hash=fac66a9160ab4f8bb5fa0635137acbe0}{%
+           family={Khademi},
+           family_i={K\bibinitperiod},
+           given={April},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Athens, Greece}%
+      }
+      \strng{namehash}{5fafc506ef20194b8d9fee4247704d62}
+      \strng{fullhash}{2618f85b2815be0c42db4227eeb838ac}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{There have been many efforts to automate segmentation of MS lesions in brain MRI, since human delineation is time consuming and error prone. However, most existing methods require multiple coregistered MR sequences, tissue priors or parametric models, and are rarely validated on multi-scanner image databases. In this work, a fast, FLAIR-only lesion segmentation algorithm is proposed, that does not use tissue priors or parametric models. The method uses an edge-based model of partial volume averaging to estimate fuzzy membership profiles of tissue classes. Results are further refined using an upstream image standardization pipeline, and downstream post processing. Lesion segmentation performance is measured on 15 volumes from three different scanners, demonstrating the robustness of the approach.}
+      \field{booktitle}{Medical Image Computing and Computer-Assisted Intervention - MICCAI}
+      \field{title}{MS Lesion Segmentation Using FLAIR MRI Only}
+      \field{year}{2016}
+      \field{pages}{TBD}
+      \range{pages}{-1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Knight, Khademi - 2016 - MS Lesion Segmentation Using FLAIR MRI Only.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Lao2006}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=9873f7152788643034f9a2f5ff28294f}{%
+           family={Lao},
+           family_i={L\bibinitperiod},
+           given={Z.},
+           given_i={Z\bibinitperiod}}}%
+        {{hash=472e6ba8fa313fcb48b487b421f38d6b}{%
+           family={Shen},
+           family_i={S\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=1683449895ecf1a50cf517820ead01b7}{%
+           family={Jawad},
+           family_i={J\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{hash=6c4e2b9c13398897b7df68381007f079}{%
+           family={Karacali},
+           family_i={K\bibinitperiod},
+           given={B.},
+           given_i={B\bibinitperiod}}}%
+        {{hash=8566b1e4c421f6d48bab98830b87792e}{%
+           family={Melhem},
+           family_i={M\bibinitperiod},
+           given={E.R.},
+           given_i={E\bibinitperiod}}}%
+        {{hash=df93e394169abc2a241f6a684e83a80b}{%
+           family={Bryan},
+           family_i={B\bibinitperiod},
+           given={R.N.},
+           given_i={R\bibinitperiod}}}%
+        {{hash=2bc84479d40e7c4304956ddc0cbebde9}{%
+           family={Davatziko},
+           family_i={D\bibinitperiod},
+           given={C.},
+           given_i={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{dda376058bc1e548f265c0ad18ffdb31}
+      \strng{fullhash}{c2bcf24f3644315ac4308aa516bc3ce8}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper presents a fully automatic white matter lesion (WML) segmentation method, based on local features determined by combining multiple MR acquisition protocols, including T1-weighted, T2-weighted, proton density (PD)-weighted and fluid attenuation inversion recovery (FLAIR) scans. Support vector machines (SVMs) are used to integrate features from these 4 acquisition types, thereby identifying nonlinear imaging profiles that distinguish and classify WMLs from normal brain tissue. Validation on a population of 45 diabetes patients with diverse spatial and size distribution of WMLs shows the robustness and accuracy of the proposed segmentation method, compared to the manual segmentation results from two experienced neuroradiologists.}
+      \field{booktitle}{3rd IEEE International Symposium on Biomedical Imaging: Macro to Nano, 2006.}
+      \field{isbn}{0-7803-9576-X}
+      \field{shorttitle}{Biomedical Imaging: Nano to Macro, 2006. 3rd IEEE}
+      \field{title}{Automated Segmentation of White Matter Lesions in 3D Brain MR Images, using Multivariate Pattern Classification}
+      \field{year}{2006}
+      \field{pages}{307\bibrangedash 310}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/ISBI.2006.1624914
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Lao et al. - 2006 - Automated Segmentation of White Matter Lesions in 3D Brain MR Images, using Multivariate Pattern Classification.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Mechrez2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=236cef814620120ab7483850c0e4a877}{%
+           family={Mechrez},
+           family_i={M\bibinitperiod},
+           given={Roey},
+           given_i={R\bibinitperiod}}}%
+        {{hash=61ffa1afeaed1680543a9a0cb90072e4}{%
+           family={Goldberger},
+           family_i={G\bibinitperiod},
+           given={Jacob},
+           given_i={J\bibinitperiod}}}%
+        {{hash=14f1672020cd25738b921bc08e68e5a7}{%
+           family={Greenspan},
+           family_i={G\bibinitperiod},
+           given={Hayit},
+           given_i={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi Publishing Corporation}%
+      }
+      \strng{namehash}{6846c06f31f36af1a3c3cf1b78424c41}
+      \strng{fullhash}{3e3f59a1a06a0321d4f0e6f3ae9453cd}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents an automatic lesion segmentation method based on similarities between multichannel patches. A patch database is built using training images for which the label maps are known. For each patch in the testing image, k similar patches are retrieved from the database. The matching labels for these k patches are then combined to produce an initial segmentation map for the test case. Finally an iterative patch-based label refinement process based on the initial segmentation map is performed to ensure the spatial consistency of the detected lesions. The method was evaluated in experiments on multiple sclerosis (MS) lesion segmentation in magnetic resonance images (MRI) of the brain. An evaluation was done for each image in the MICCAI 2008 MS lesion segmentation challenge. Results are shown to compete with the state of the art in the challenge. We conclude that the proposed algorithm for segmentation of lesions provides a promising new approach for local segmentation and global detection in medical images.}
+      \field{issn}{16874196}
+      \field{journaltitle}{International Journal of Biomedical Imaging}
+      \field{title}{Patch-Based Segmentation with Spatial Consistency: Application to MS Lesions in Brain MRI}
+      \field{volume}{2016}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1155/2016/7952541
+      \endverb
+    \endentry
+    \entry{Roy2015}{article}{}
+      \name{author}{8}{}{%
+        {{hash=52022b43fd17fc6c22f40e1f41db8096}{%
+           family={Roy},
+           family_i={R\bibinitperiod},
+           given={Pallab\bibnamedelima Kanti},
+           given_i={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=404e771159c651e7284d2019b831d3c2}{%
+           family={Bhuiyan},
+           family_i={B\bibinitperiod},
+           given={Alauddin},
+           given_i={A\bibinitperiod}}}%
+        {{hash=feed9b2dc562ba17258510c548b28200}{%
+           family={Janke},
+           family_i={J\bibinitperiod},
+           given={Andrew},
+           given_i={A\bibinitperiod}}}%
+        {{hash=59961835006c28afa2e0ec02aec7ad9c}{%
+           family={Desmond},
+           family_i={D\bibinitperiod},
+           given={Patricia\bibnamedelima M},
+           given_i={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a1130f46ed7ecc780b0631c91363dc67}{%
+           family={Wong},
+           family_i={W\bibinitperiod},
+           given={Tien\bibnamedelima Yin},
+           given_i={T\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=7c206348918888023406c5091bb3e6aa}{%
+           family={Abhayaratna},
+           family_i={A\bibinitperiod},
+           given={Walter\bibnamedelima P},
+           given_i={W\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=5eb7ebf02028f84168333f1886d26595}{%
+           family={Storey},
+           family_i={S\bibinitperiod},
+           given={Elsdon},
+           given_i={E\bibinitperiod}}}%
+        {{hash=b6fb14c7c121144249fdc97049b51169}{%
+           family={Ramamohanarao},
+           family_i={R\bibinitperiod},
+           given={Kotagiri},
+           given_i={K\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{d076db747feedd0872a578d0518d9e70}
+      \strng{fullhash}{7b12eda4a43b332a616d9b4a0720ca19}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{White matter lesions (WMLs) are small groups of dead cells that clump together in the white matter of brain. In this paper, we propose a reliable method to automatically segment WMLs. Our method uses a novel filter to enhance the intensity of WMLs. Then a feature set containing enhanced intensity, anatomical and spatial information is used to train a random forest classifier for the initial segmentation of WMLs. Following that a reliable and robust edge potential function based Markov Random Field (MRF) is proposed to obtain the final segmentation by removing false positive WMLs. Quantitative evaluation of the proposed method is performed on 24 subjects of ENVISion study. The segmentation results are validated against the manual segmentation, performed under the supervision of an expert neuroradiologist. The results show a dice similarity index of 0.76 for severe lesion load, 0.73 for moderate lesion load and 0.61 for mild lesion load. In addition to that we have compared our method with three state of the art methods on 20 subjects of Medical Image Computing and Computer Aided Intervention Society's (MICCAI's) MS lesion challenge dataset, where our method shows better segmentation accuracy compare to the state of the art methods. These results indicate that the proposed method can assist the neuroradiologists in assessing the WMLs in clinical practice.}
+      \field{issn}{1879-0771 (Electronic)}
+      \field{journaltitle}{Computerized medical imaging and graphics : the official journal of the Computerized Medical Imaging Society}
+      \field{month}{10}
+      \field{title}{Automatic white matter lesion segmentation using contrast enhanced FLAIR intensity and Markov Random Field}
+      \field{volume}{45}
+      \field{year}{2015}
+      \field{pages}{102\bibrangedash 111}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.compmedimag.2015.08.005
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Roy et al. - 2015 - Automatic white matter lesion segmentation using contrast enhanced FLAIR intensity and Markov Random Field.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Sajja2006}{article}{}
+      \name{author}{7}{}{%
+        {{hash=897ffe97a5e240c50202d8b647574f95}{%
+           family={Sajja},
+           family_i={S\bibinitperiod},
+           given={Balasrinivasa\bibnamedelima Rao},
+           given_i={B\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=12d6803e9c4dbc0864feaed5fe092901}{%
+           family={Datta},
+           family_i={D\bibinitperiod},
+           given={Sushmita},
+           given_i={S\bibinitperiod}}}%
+        {{hash=67079908929f394f6891ad9b150284c2}{%
+           family={He},
+           family_i={H\bibinitperiod},
+           given={Renjie},
+           given_i={R\bibinitperiod}}}%
+        {{hash=e015604c9884e6632b749c4922d6cbdc}{%
+           family={Mehta},
+           family_i={M\bibinitperiod},
+           given={Meghana},
+           given_i={M\bibinitperiod}}}%
+        {{hash=dfa90314ae77120b159b4d60b21b888f}{%
+           family={Gupta},
+           family_i={G\bibinitperiod},
+           given={Rakesh\bibnamedelima K},
+           given_i={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=3686379b5ed62cc643e652dedeaa4506}{%
+           family={Wolinsky},
+           family_i={W\bibinitperiod},
+           given={Jerry\bibnamedelima S},
+           given_i={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=62f6e0492f5dc3534c216fabcaa5b137}{%
+           family={Narayana},
+           family_i={N\bibinitperiod},
+           given={Ponnada\bibnamedelima A},
+           given_i={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{21b0cba0dc8e97d0e7229e4ce57e7d5a}
+      \strng{fullhash}{3d58c1e51324768fe4763217389ceb98}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The presence of large number of false lesion classification on segmented brain MR images is a major problem in the accurate determination of lesion volumes in multiple sclerosis (MS) brains. In order to minimize the false lesion classifications, a strategy that combines parametric and nonparametric techniques is developed and implemented. This approach uses the information from the proton density (PD)- and T2-weighted and fluid attenuation inversion recovery (FLAIR) images. This strategy involves CSF and lesion classification using the Parzen window classifier. Image processing, morphological operations, and ratio maps of PD- and T2-weighted images are used for minimizing false positives. Contextual information is exploited for minimizing the false negative lesion classifications using hidden Markov random field-expectation maximization (HMRF-EM) algorithm. Lesions are delineated using fuzzy connectivity. The performance of this algorithm is quantitatively evaluated on 23 MS patients. Similarity index, percentages of over, under, and correct estimations of lesions are computed by spatially comparing the results of present procedure with expert manual segmentation. The automated processing scheme detected 80{\%} of the manually segmented lesions in the case of low lesion load and 93{\%} of the lesions in those cases with high lesion load.}
+      \field{issn}{0090-6964}
+      \field{journaltitle}{Annals of biomedical engineering}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{Unified approach for multiple sclerosis lesion segmentation on brain MRI}
+      \field{volume}{34}
+      \field{year}{2006}
+      \field{pages}{142\bibrangedash 51}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1007/s10439-005-9009-0
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sajja et al. - 2006 - Unified approach for multiple sclerosis lesion segmentation on brain MRI.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Samaille2012}{article}{}
+      \name{author}{8}{}{%
+        {{hash=9564585b1e601189d10d5302c0c3d5bc}{%
+           family={Samaille},
+           family_i={S\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+        {{hash=1efd8c7bd209a295d4004892fd746d5c}{%
+           family={Fillon},
+           family_i={F\bibinitperiod},
+           given={Ludovic},
+           given_i={L\bibinitperiod}}}%
+        {{hash=d62ec80ab6d1f954762fe430cc15d238}{%
+           family={Cuingnet},
+           family_i={C\bibinitperiod},
+           given={Remi},
+           given_i={R\bibinitperiod}}}%
+        {{hash=9665e3d25558553f9eb57b02bcb77932}{%
+           family={Jouvent},
+           family_i={J\bibinitperiod},
+           given={Eric},
+           given_i={E\bibinitperiod}}}%
+        {{hash=ea2fc19e08e134071a3c9015d241bc92}{%
+           family={Chabriat},
+           family_i={C\bibinitperiod},
+           given={Hugues},
+           given_i={H\bibinitperiod}}}%
+        {{hash=d09428ddae17afd1e54190efc372c543}{%
+           family={Dormont},
+           family_i={D\bibinitperiod},
+           given={Didier},
+           given_i={D\bibinitperiod}}}%
+        {{hash=f7b4f4b7a13b3d9b4e903f743d6cccf6}{%
+           family={Colliot},
+           family_i={C\bibinitperiod},
+           given={Olivier},
+           given_i={O\bibinitperiod}}}%
+        {{hash=294f9f2570ab150a6888eec3c34455ca}{%
+           family={Chupin},
+           family_i={C\bibinitperiod},
+           given={Marie},
+           given_i={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{4da66a1a6974ca518b6a6524f88e9812}
+      \strng{fullhash}{9c352192c249e59c33ef0cce2d6316e9}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{White matter hyperintensities (WMH) on T2 or FLAIR sequences have been commonly observed on MR images of elderly people. They have been associated with various disorders and have been shown to be a strong risk factor for stroke and dementia. WMH studies usually required visual evaluation of WMH load or time-consuming manual delineation. This paper introduced WHASA (White matter Hyperintensities Automated Segmentation Algorithm), a new method for automatically segmenting WMH from FLAIR and T1 images in multicentre studies. Contrary to previous approaches that were based on intensities, this method relied on contrast: non linear diffusion filtering alternated with watershed segmentation to obtain piecewise constant images with increased contrast between WMH and surroundings tissues. WMH were then selected based on subject dependant automatically computed threshold and anatomical information. WHASA was evaluated on 67 patients from two studies, acquired on six different MRI scanners and displaying a wide range of lesion load. Accuracy of the segmentation was assessed through volume and spatial agreement measures with respect to manual segmentation; an intraclass correlation coefficient (ICC) of 0.96 and a mean similarity index (SI) of 0.72 were obtained. WHASA was compared to four other approaches: Freesurfer and a thresholding approach as unsupervised methods; k-nearest neighbours (kNN) and support vector machines (SVM) as supervised ones. For these latter, influence of the training set was also investigated. WHASA clearly outperformed both unsupervised methods, while performing at least as good as supervised approaches (ICC range: 0.87-0.91 for kNN; 0.89-0.94 for SVM. Mean SI: 0.63-0.71 for kNN, 0.67-0.72 for SVM), and did not need any training set.}
+      \field{issn}{1932-6203 (Electronic)}
+      \field{journaltitle}{PloS one}
+      \field{number}{11}
+      \field{title}{Contrast-based fully automatic segmentation of white matter hyperintensities: method and validation}
+      \field{volume}{7}
+      \field{year}{2012}
+      \field{pages}{e48953}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0048953
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Samaille et al. - 2012 - Contrast-based fully automatic segmentation of white matter hyperintensities method and validation.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Schmidt2012}{article}{}
+      \name{author}{14}{}{%
+        {{hash=42ee4e0655c03723cbe0f9129ef31148}{%
+           family={Schmidt},
+           family_i={S\bibinitperiod},
+           given={Paul},
+           given_i={P\bibinitperiod}}}%
+        {{hash=b685ff097d0d70aba5da00750d0c5e45}{%
+           family={Gaser},
+           family_i={G\bibinitperiod},
+           given={Christian},
+           given_i={C\bibinitperiod}}}%
+        {{hash=c05d9541d3128ce34a8e749a71618e01}{%
+           family={Arsic},
+           family_i={A\bibinitperiod},
+           given={Milan},
+           given_i={M\bibinitperiod}}}%
+        {{hash=13e0f2f284157eacdb1f4a3482468c02}{%
+           family={Buck},
+           family_i={B\bibinitperiod},
+           given={Dorothea},
+           given_i={D\bibinitperiod}}}%
+        {{hash=bd8960a6519c386203902790302c06ff}{%
+           family={Forschler},
+           family_i={F\bibinitperiod},
+           given={Annette},
+           given_i={A\bibinitperiod}}}%
+        {{hash=d313347f5cd7aba1a5ee9b5111a29f65}{%
+           family={Berthele},
+           family_i={B\bibinitperiod},
+           given={Achim},
+           given_i={A\bibinitperiod}}}%
+        {{hash=54e2c669721923ca01807c3bc3daea96}{%
+           family={Hoshi},
+           family_i={H\bibinitperiod},
+           given={Muna},
+           given_i={M\bibinitperiod}}}%
+        {{hash=4d7247699463233a32b028bc182d6a3a}{%
+           family={Ilg},
+           family_i={I\bibinitperiod},
+           given={Rudiger},
+           given_i={R\bibinitperiod}}}%
+        {{hash=803c2a57ee6f271795b1fa3e8b7deb41}{%
+           family={Schmid},
+           family_i={S\bibinitperiod},
+           given={Volker\bibnamedelima J},
+           given_i={V\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=7fbc102b699525d3dcdac0b0ca540926}{%
+           family={Zimmer},
+           family_i={Z\bibinitperiod},
+           given={Claus},
+           given_i={C\bibinitperiod}}}%
+        {{hash=22212d9df09d8cb5dd487c20c995ac94}{%
+           family={Hemmer},
+           family_i={H\bibinitperiod},
+           given={Bernhard},
+           given_i={B\bibinitperiod}}}%
+        {{hash=9f1f550ecc3273dea7f9fd0f06dccd47}{%
+           family={Muhlau},
+           family_i={M\bibinitperiod},
+           given={Mark},
+           given_i={M\bibinitperiod}}}%
+        {{hash=626ee5479c2f19763924fe86fff81e9a}{%
+           family={F\"{o}rschler},
+           family_i={F\bibinitperiod},
+           given={A},
+           given_i={A\bibinitperiod}}}%
+        {{hash=d313347f5cd7aba1a5ee9b5111a29f65}{%
+           family={Berthele},
+           family_i={B\bibinitperiod},
+           given={Achim},
+           given_i={A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{d06588c1e3174419d6156b74adafcf67}
+      \strng{fullhash}{e3588674eee77d9f3753267d8325b94c}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In Multiple Sclerosis (MS), detection of T2-hyperintense white matter (WM) lesions on magnetic resonance imaging (MRI) has become a crucial criterion for diagnosis and predicting prognosis in early disease. Automated lesion detection is not only desirable with regard to time and cost effectiveness but also constitutes a prerequisite to minimize user bias. Here, we developed and evaluated an algorithm for automated lesion detection requiring a three-dimensional (3D) gradient echo (GRE) T1-weighted and a FLAIR image at 3 Tesla (T). Our tool determines the three tissue classes of gray matter (GM) and WM as well as cerebrospinal fluid (CSF) from the T1-weighted image, and, then, the FLAIR intensity distribution of each tissue class in order to detect outliers, which are interpreted as lesion beliefs. Next, a conservative lesion belief is expanded toward a liberal lesion belief. To this end, neighboring voxels are analyzed and assigned to lesions under certain conditions. This is done iteratively until no further voxels are assigned to lesions. Herein, the likelihood of belonging to WM or GM is weighed against the likelihood of belonging to lesions. We evaluated our algorithm in 53 MS patients with different lesion volumes, in 10 patients with posterior fossa lesions, and 18 control subjects that were all scanned at the same 3T scanner (Achieva, Philips, Netherlands). We found good agreement with lesions determined by manual tracing (R2 values of over 0.93 independent of FLAIR slice thickness up to 6mm). These results require validation with data from other protocols based on a conventional FLAIR sequence and a 3D GRE T1-weighted sequence. Yet, we believe that our tool allows fast and reliable segmentation of FLAIR-hyperintense lesions, which might simplify the quantification of lesions in basic research and even clinical trials.}
+      \field{issn}{1095-9572 (Electronic)}
+      \field{journaltitle}{Neuroimage}
+      \field{month}{02}
+      \field{number}{4}
+      \field{title}{An automated tool for detection of FLAIR-hyperintense white-matter lesions in multiple sclerosis}
+      \field{volume}{59}
+      \field{year}{2012}
+      \field{pages}{3774\bibrangedash 3783}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2011.11.032
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Schmidt et al. - 2012 - An automated tool for detection of FLAIR-hyperintense white-matter lesions in multiple sclerosis.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Schwarz2009}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=1bcee4d5b94d5da071608067fc2549fe}{%
+           family={Schwarz},
+           family_i={S\bibinitperiod},
+           given={Christopher},
+           given_i={C\bibinitperiod}}}%
+        {{hash=1e59cb91bfdeb59a3cf8e21a32c9da8b}{%
+           family={Fletcher},
+           family_i={F\bibinitperiod},
+           given={Evan},
+           given_i={E\bibinitperiod}}}%
+        {{hash=d19a9490e9caa07aa05013bd1a79a4d8}{%
+           family={Decarli},
+           family_i={D\bibinitperiod},
+           given={Charles},
+           given_i={C\bibinitperiod}}}%
+        {{hash=67dbebc334ea15ff69a560032a34c6ea}{%
+           family={Carmichael},
+           family_i={C\bibinitperiod},
+           given={Owen},
+           given_i={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {NIH Public Access}%
+      }
+      \strng{namehash}{7e4cd189d44bf28f0deeb014d46a9101}
+      \strng{fullhash}{82a186dd9a9b7b111c5560ac3f1d88c5}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a method for detection of cerebral white matter hyperintensities (WMH) based on run-time PD-, T1-, and T2-weighted structural magnetic resonance (MR) images of the brain along with labeled training examples. Unlike most prior approaches, the method is able to reliably detect WMHs in elderly brains in the absence of fluid-attenuated (FLAIR) images. Its success is due to the learning of probabilistic models of WMH spatial distribution and neighborhood dependencies from ground-truth examples of FLAIR-based WMH detections. These models are combined with a probabilistic model of the PD, T1, and T2 intensities of WMHs in a Markov Random Field (MRF) framework that provides the machinery for inferring the positions of WMHs in novel test images. The method is shown to accurately detect WMHs in a set of 114 elderly subjects from an academic dementia clinic. Experiments show that standard off-the-shelf MRF training and inference methods provide robust results, and that increasing the complexity of neighborhood dependency models does not necessarily help performance. The method is also shown to perform well when training and test data are drawn from distinct scanners and subject pools.}
+      \field{booktitle}{Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)}
+      \field{isbn}{3642024971}
+      \field{issn}{03029743}
+      \field{title}{Fully-automated white matter hyperintensity detection with anatomical prior knowledge and without FLAIR}
+      \field{volume}{5636 LNCS}
+      \field{year}{2009}
+      \field{pages}{239\bibrangedash 251}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/978-3-642-02498-6_20
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Schwarz et al. - 2009 - Fully-automated white matter hyperintensity detection with anatomical prior knowledge and without FLAIR.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Scully2010}{article}{}
+      \name{author}{9}{}{%
+        {{hash=18a38fa7cd0907570aa6c5ad04f8ecc3}{%
+           family={Scully},
+           family_i={S\bibinitperiod},
+           given={Mark},
+           given_i={M\bibinitperiod}}}%
+        {{hash=a9fd16f37c6e6971dc7f7f8afb4f21b5}{%
+           family={Anderson},
+           family_i={A\bibinitperiod},
+           given={Blake},
+           given_i={B\bibinitperiod}}}%
+        {{hash=f763990b1c4c32060b6244bb022c80e7}{%
+           family={Lane},
+           family_i={L\bibinitperiod},
+           given={Terran},
+           given_i={T\bibinitperiod}}}%
+        {{hash=5176b516bbd9afa382d0c967473a7a44}{%
+           family={Gasparovic},
+           family_i={G\bibinitperiod},
+           given={Charles},
+           given_i={C\bibinitperiod}}}%
+        {{hash=9b735129976b10768944a6ea67477184}{%
+           family={Magnotta},
+           family_i={M\bibinitperiod},
+           given={Vince},
+           given_i={V\bibinitperiod}}}%
+        {{hash=51705def244cd54889dc8798db6e49c4}{%
+           family={Sibbitt},
+           family_i={S\bibinitperiod},
+           given={Wilmer},
+           given_i={W\bibinitperiod}}}%
+        {{hash=a4d0f04939fcca3df27e4c89c12cf5f3}{%
+           family={Roldan},
+           family_i={R\bibinitperiod},
+           given={Carlos},
+           given_i={C\bibinitperiod}}}%
+        {{hash=a9633d3f19515a94aceca647e1e70bdb}{%
+           family={Kikinis},
+           family_i={K\bibinitperiod},
+           given={Ron},
+           given_i={R\bibinitperiod}}}%
+        {{hash=8f88ca288fccd4a189166050ebc8713f}{%
+           family={Bockholt},
+           family_i={B\bibinitperiod},
+           given={Henry\bibnamedelima J},
+           given_i={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{62961df5ae4699951db4615212a5c90b}
+      \strng{fullhash}{d80e96475434732002cdfff5b9576505}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We demonstrate an automated, multi-level method to segment white matter brain lesions and apply it to lupus. The method makes use of local morphometric features based on multiple MR sequences, including T1-weighted, T2-weighted, and fluid attenuated inversion recovery. After preprocessing, including co-registration, brain extraction, bias correction, and intensity standardization, 49 features are calculated for each brain voxel based on local morphometry. At each level of segmentation a supervised classifier takes advantage of a different subset of the features to conservatively segment lesion voxels, passing on more difficult voxels to the next classifier. This multi-level approach allows for a fast lesion classification method with tunable trade-offs between sensitivity and specificity producing accuracy comparable to a human rater.}
+      \field{issn}{1662-5161}
+      \field{journaltitle}{Frontiers in human neuroscience}
+      \field{number}{April}
+      \field{title}{An Automated Method for Segmenting White Matter Lesions through Multi-Level Morphometric Feature Classification with Application to Lupus}
+      \field{volume}{4}
+      \field{year}{2010}
+      \field{pages}{27}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fnhum.2010.00027
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Scully et al. - 2010 - An Automated Method for Segmenting White Matter Lesions through Multi-Level Morphometric Feature Classification w.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Shiee2010}{article}{}
+      \name{author}{6}{}{%
+        {{hash=de00835c328a05076306caf9b5d7773a}{%
+           family={Shiee},
+           family_i={S\bibinitperiod},
+           given={Navid},
+           given_i={N\bibinitperiod}}}%
+        {{hash=8c1b3749f53e1deeba2bd0b32a78e047}{%
+           family={Bazin},
+           family_i={B\bibinitperiod},
+           given={Pierre-Louis},
+           given_i={P\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=5622ef2d8d443bcbcecb27d17b407a27}{%
+           family={Ozturk},
+           family_i={O\bibinitperiod},
+           given={Arzu},
+           given_i={A\bibinitperiod}}}%
+        {{hash=4ca72cda0889f10f426a6412773fbd87}{%
+           family={Reich},
+           family_i={R\bibinitperiod},
+           given={Daniel\bibnamedelima S},
+           given_i={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=6287f6969f6308867e793b7ed65df2ab}{%
+           family={Calabresi},
+           family_i={C\bibinitperiod},
+           given={Peter\bibnamedelima A},
+           given_i={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=2fcfcbbcf9942d64bf021bc36c5daa59}{%
+           family={Pham},
+           family_i={P\bibinitperiod},
+           given={Dzung\bibnamedelima L},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{ac508f51ba326c556d90c661770c0f98}
+      \strng{fullhash}{602f33ad73b19632610c7bce70c3976e}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We describe a new fully automatic method for the segmentation of brain images that contain multiple sclerosis white matter lesions. Multichannel magnetic resonance images are used to delineate multiple sclerosis lesions while segmenting the brain into its major structures. The method is an atlas-based segmentation technique employing a topological atlas as well as a statistical atlas. An advantage of this approach is that all segmented structures are topologically constrained, thereby allowing subsequent processing such as cortical unfolding or diffeomorphic shape analysis techniques. Evaluation with both simulated and real data sets demonstrates that the method has an accuracy competitive with state-of-the-art MS lesion segmentation methods, while simultaneously segmenting the whole brain.}
+      \field{isbn}{1095-9572 (Electronic)$\backslash$n1053-8119 (Linking)}
+      \field{issn}{1095-9572}
+      \field{journaltitle}{NeuroImage}
+      \field{month}{01}
+      \field{number}{2}
+      \field{title}{A topology-preserving approach to the segmentation of brain images with multiple sclerosis lesions}
+      \field{volume}{49}
+      \field{year}{2010}
+      \field{pages}{1524\bibrangedash 1535}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2009.09.005
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shiee et al. - 2010 - A topology-preserving approach to the segmentation of brain images with multiple sclerosis lesions.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Smart2011}{article}{}
+      \name{author}{3}{}{%
+        {{hash=86a425a5a42bce6e467a6665b90312c5}{%
+           family={Smart},
+           family_i={S\bibinitperiod},
+           given={Sean\bibnamedelima D},
+           given_i={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=41be32a5ea945de0eb2f9e8c9fb48009}{%
+           family={Firbank},
+           family_i={F\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           given_i={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=068769c050d1ad1a4118f588570e6495}{%
+           family={O'Brien},
+           family_i={O\bibinitperiod},
+           given={John\bibnamedelima T},
+           given_i={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbfbe0af1e6527849d18d7bab94221c6}
+      \strng{fullhash}{18f93e2548784ebbbb1ae4d70dd544f9}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Introduction. White matter hyperintensities (WMHs) are a common finding on MRI scans of older people and are associated with vascular disease. We compared 3 methods for automatically segmenting WMHs from MRI scans. Method. An operator manually segmented WMHs on MRI images from a 3T scanner. The scans were also segmented in a fully automated fashion by three different programmes. The voxel overlap between manual and automated segmentation was compared. Results. Between observer overlap ratio was 63{\%}. Using our previously described in-house software, we had overlap of 62.2{\%}. We investigated the use of a modified version of SPM segmentation; however, this was not successful, with only 14{\%} overlap. Discussion. Using our previously reported software, we demonstrated good segmentation of WMHs in a fully automated fashion.}
+      \field{issn}{2090-2212}
+      \field{journaltitle}{Journal of aging research}
+      \field{month}{01}
+      \field{title}{Validation of automated white matter hyperintensity segmentation}
+      \field{volume}{2011}
+      \field{year}{2011}
+      \field{pages}{391783}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.4061/2011/391783
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Smart, Firbank, O'Brien - 2011 - Validation of automated white matter hyperintensity segmentation.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Souplet2008}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2a825e75d6b904d930ce1fbf9a21217c}{%
+           family={Souplet},
+           family_i={S\bibinitperiod},
+           given={Jc},
+           given_i={J\bibinitperiod}}}%
+        {{hash=8ee9cb85fe9dc99c52ad8e105dd568e0}{%
+           family={Lebrun},
+           family_i={L\bibinitperiod},
+           given={C},
+           given_i={C\bibinitperiod}}}%
+        {{hash=23ba4c50773b0173cd4917e200a8166d}{%
+           family={Ayache},
+           family_i={A\bibinitperiod},
+           given={N},
+           given_i={N\bibinitperiod}}}%
+        {{hash=5540b5dceb3e9b1ec874b15f66bca60b}{%
+           family={Malandain},
+           family_i={M\bibinitperiod},
+           given={G},
+           given_i={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{04513de894fe95093268308209fc4e9d}
+      \strng{fullhash}{f06af6afe58a6639b649d42b9d116f9d}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Multiple sclerosis diagnosis and patient follow-up can be helped by an evaluation of the lesion load in MRI sequences. A lot of automatic methods to segment these lesions are available in the literature. The MICCAI workshop Multiple Sclerosis (MS) lesion segmentation Challenge 08 allows to test and compare these algorithms. This paper presents a method designed to detect hyperintense signal area on T2-FLAIR sequence and its results on the Challenge test data. The proposed algorithm uses only three conventional MRI sequences: T1, T2 and T2-FLAIR. First, images are cropped, spatially unbiased and skull-stripped. A segmentation of the brain into its different compartments is performed on the T1 and the T2 sequences. From these segmentations, a threshold for the T2-FLAIR sequence is automatically computed. Then postprocessing operations select the most plausible lesions in the obtained hyperintense signals. Average global result on the test data (80/100) is close to the inter-expert variability (90/100).}
+      \field{journaltitle}{MICCAI Grand Challenge Workshop: Multiple Sclerosis Lesion Segmentation Challenge}
+      \field{title}{An Automatic Segmentation of T2-FLAIR Multiple Sclerosis Lesions}
+      \field{year}{2008}
+      \field{pages}{1\bibrangedash 11}
+      \range{pages}{11}
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Souplet et al. - 2008 - An Automatic Segmentation of T2-FLAIR Multiple Sclerosis Lesions.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Steenwijk2013}{article}{}
+      \name{author}{8}{}{%
+        {{hash=26e723a07334356c4b8fb4563062bfbc}{%
+           family={Steenwijk},
+           family_i={S\bibinitperiod},
+           given={Martijn\bibnamedelima D},
+           given_i={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=481f028b2fd35802c4b063944a2fefbf}{%
+           family={Pouwels},
+           family_i={P\bibinitperiod},
+           given={Petra\bibnamedelimb J\bibnamedelima W},
+           given_i={P\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=f0023d52a16f5fe35033f17c22c9fa16}{%
+           family={Daams},
+           family_i={D\bibinitperiod},
+           given={Marita},
+           given_i={M\bibinitperiod}}}%
+        {{hash=cdc51ee0824829ae7dc373997c84c009}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Dalen},
+           family_i={D\bibinitperiod},
+           given={Jan\bibnamedelima Willem},
+           given_i={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=1c418d2ea92ecc4b765691d9f71065a7}{%
+           family={Caan},
+           family_i={C\bibinitperiod},
+           given={Matthan\bibnamedelimb W\bibnamedelima A},
+           given_i={M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=cf4389950ed95c5e9df4ed9325f5cc44}{%
+           family={Richard},
+           family_i={R\bibinitperiod},
+           given={Edo},
+           given_i={E\bibinitperiod}}}%
+        {{hash=28650b188d5c5d3bc398f51f2e53d7cf}{%
+           family={Barkhof},
+           family_i={B\bibinitperiod},
+           given={Frederik},
+           given_i={F\bibinitperiod}}}%
+        {{hash=02b2579e975eb8647c37cd2a5906e17c}{%
+           family={Vrenken},
+           family_i={V\bibinitperiod},
+           given={Hugo},
+           given_i={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{c355df1219c53ef57e7dd42accdbce49}
+      \strng{fullhash}{610c3e09239a3cfec4dcf3ac0f20854e}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{INTRODUCTION: The segmentation and volumetric quantification of white matter (WM) lesions play an important role in monitoring and studying neurological diseases such as multiple sclerosis (MS) or cerebrovascular disease. This is often interactively done using 2D magnetic resonance images. Recent developments in acquisition techniques allow for 3D imaging with much thinner sections, but the large number of images per subject makes manual lesion outlining infeasible. This warrants the need for a reliable automated approach. Here we aimed to improve k nearest neighbor (kNN) classification of WM lesions by optimizing intensity normalization and using spatial tissue type priors (TTPs). METHODS: The kNN-TTP method used kNN classification with 3.0\x{fffd}\x{fffd}T 3DFLAIR and 3DT1 intensities as well as MNI-normalized spatial coordinates as features. Additionally, TTPs were computed by nonlinear registration of data from healthy controls. Intensity features were normalized using variance scaling, robust range normalization or histogram matching. The algorithm was then trained and evaluated using a leave-one-out experiment among 20 patients with MS against a reference segmentation that was created completely manually. The performance of each normalization method was evaluated both with and without TTPs in the feature set. Volumetric agreement was evaluated using intra-class coefficient (ICC), and voxelwise spatial agreement was evaluated using Dice similarity index (SI). Finally, the robustness of the method across different scanners and patient populations was evaluated using an independent sample of elderly subjects with hypertension. RESULTS: The intensity normalization method had a large influence on the segmentation performance, with average SI values ranging from 0.66 to 0.72 when no TTPs were used. Independent of the normalization method, the inclusion of TTPs as features increased performance particularly by reducing the lesion detection error. Best performance was achieved using variance scaled intensity features and including TTPs in the feature set: this yielded ICC\x{fffd}\x{fffd}=\x{fffd}\x{fffd}0.93 and average SI\x{fffd}\x{fffd}=\x{fffd}\x{fffd}0.75\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}0.08. Validation of the method in an independent sample of elderly subjects with hypertension, yielded even higher ICC\x{fffd}\x{fffd}=\x{fffd}\x{fffd}0.96 and SI\x{fffd}\x{fffd}=\x{fffd}\x{fffd}0.84\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}\x{fffd}0.14. CONCLUSION: Adding TTPs increases the performance of kNN based MS lesion segmentation methods. Best performance was achieved using variance scaling for intensity normalization and including TTPs in the feature set, showing excellent agreement with the reference segmentations across a wide range of lesion severity, irrespective of the scanner used or the pathological substrate of the lesions.}
+      \field{issn}{2213-1582}
+      \field{journaltitle}{NeuroImage. Clinical}
+      \field{month}{01}
+      \field{title}{Accurate white matter lesion segmentation by k nearest neighbor classification with tissue type priors (kNN-TTPs)}
+      \field{volume}{3}
+      \field{year}{2013}
+      \field{pages}{462\bibrangedash 9}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.nicl.2013.10.003
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Steenwijk et al. - 2013 - Accurate white matter lesion segmentation by k nearest neighbor classification with tissue type priors (kNN-TT.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Strumia2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=df56b011e6e931a0c0b08a5009ad0d58}{%
+           family={Strumia},
+           family_i={S\bibinitperiod},
+           given={Maddalena},
+           given_i={M\bibinitperiod}}}%
+        {{hash=1fd0442e74cf10c2c241bf9d3c7592a6}{%
+           family={Schmidt},
+           family_i={S\bibinitperiod},
+           given={Frank},
+           given_i={F\bibinitperiod}}}%
+        {{hash=0bb1771a1e9c15996718e5bdb7b48f1a}{%
+           family={Anastasopoulos},
+           family_i={A\bibinitperiod},
+           given={Constantin},
+           given_i={C\bibinitperiod}}}%
+        {{hash=3a16d5d07ccd473c5c3d99540f4de207}{%
+           family={Granziera},
+           family_i={G\bibinitperiod},
+           given={Cristina},
+           given_i={C\bibinitperiod}}}%
+        {{hash=fe8122730238f5235578bbb000887e87}{%
+           family={Krueger},
+           family_i={K\bibinitperiod},
+           given={Gunnar},
+           given_i={G\bibinitperiod}}}%
+        {{hash=b452a32296958371572717940f900884}{%
+           family={Brox},
+           family_i={B\bibinitperiod},
+           given={Thomas},
+           given_i={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e5a0d6b2e08d40cc3f01a06c7c2d887}
+      \strng{fullhash}{f6c236d2a518805916a08ad9071ae7b3}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Brain magnetic resonance imaging (MRI) in patients with Multiple Sclerosis (MS) shows regions of signal abnormalities, named plaques or lesions. The spatial lesion distribution plays a major role for MS diagnosis. In this paper we present a 3D MS-lesion segmentation method based on an adaptive geometric brain model. We model the topological properties of the lesions and brain tissues in order to constrain the lesion segmentation to the white matter. As a result, the method is independent of an MRI atlas. We tested our method on the MICCAI MS grand challenge proposed in 2008 and achieved competitive results. In addition, we used an in-house dataset of 15 MS patients, for which we achieved best results in most distances in comparison to atlas based methods. Besides classical segmentation distances, we motivate and formulate a new distance to evaluate the quality of the lesion segmentation, while being robust with respect to minor inconsistencies at the boundary level of the ground truth annotation.}
+      \field{issn}{1558-254X}
+      \field{journaltitle}{IEEE transactions on medical imaging}
+      \field{number}{99}
+      \field{title}{White Matter MS-Lesion Segmentation Using a Geometric Brain Model}
+      \field{volume}{PP}
+      \field{year}{2016}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1109/TMI.2016.2522178
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Strumia et al. - 2016 - White Matter MS-Lesion Segmentation Using a Geometric Brain Model(2).pdf:pdf;:C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Strumia et al. - 2016 - White Matter MS-Lesion Segmentation Using a Geometric Brain Model.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Sweeney2013}{article}{}
+      \name{author}{10}{}{%
+        {{hash=875312b30a5fd20a754b6af1c9c51740}{%
+           family={Sweeney},
+           family_i={S\bibinitperiod},
+           given={Elizabeth\bibnamedelima M.},
+           given_i={E\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0108d66af3e328f7b2aaea8fd0447cb2}{%
+           family={Shinohara},
+           family_i={S\bibinitperiod},
+           given={Russell\bibnamedelima T.},
+           given_i={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=de00835c328a05076306caf9b5d7773a}{%
+           family={Shiee},
+           family_i={S\bibinitperiod},
+           given={Navid},
+           given_i={N\bibinitperiod}}}%
+        {{hash=d7e2c6c786bec862b60294cb7ca67f36}{%
+           family={Mateen},
+           family_i={M\bibinitperiod},
+           given={Farrah\bibnamedelima J.},
+           given_i={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=93f3f35edb5e0b611e3f9c9f4aac3dfa}{%
+           family={Chudgar},
+           family_i={C\bibinitperiod},
+           given={Avni\bibnamedelima A.},
+           given_i={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=97280da2bab76f8dfd6aa3dca3b4b0a4}{%
+           family={Cuzzocreo},
+           family_i={C\bibinitperiod},
+           given={Jennifer\bibnamedelima L.},
+           given_i={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=319d0bd88ff9499401d94e7a7a6b3b20}{%
+           family={Calabresi},
+           family_i={C\bibinitperiod},
+           given={Peter\bibnamedelima A.},
+           given_i={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=71eb82244fecbe0036ab8e3e7e223dc1}{%
+           family={Pham},
+           family_i={P\bibinitperiod},
+           given={Dzung\bibnamedelima L.},
+           given_i={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e06660e1f87615c6e58b7b94abbcbad3}{%
+           family={Reich},
+           family_i={R\bibinitperiod},
+           given={Daniel\bibnamedelima S.},
+           given_i={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b56036f3c5272be4b68f7d5829fcbf7c}{%
+           family={Crainiceanu},
+           family_i={C\bibinitperiod},
+           given={Ciprian\bibnamedelima M.},
+           given_i={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{4cd23079e3349d09e652659e457726d5}
+      \strng{fullhash}{b37abcdf323c47423a75be07efe9dc3c}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Magnetic resonance imaging (MRI) can be used to detect lesions in the brains of multiple sclerosis (MS) patients and is essential for diagnosing the disease and monitoring its progression. In practice, lesion load is often quantified by either manual or semi-automated segmentation of MRI, which is time-consuming, costly, and associated with large inter- and intra-observer variability. We propose OASIS is Automated Statistical Inference for Segmentation (OASIS), an automated statistical method for segmenting MS lesions in MRI studies. We use logistic regression models incorporating multiple MRI modalities to estimate voxel-level probabilities of lesion presence. Intensity-normalized T1-weighted, T2-weighted, fluid-attenuated inversion recovery and proton density volumes from 131 MRI studies (98 MS subjects, 33 healthy subjects) with manual lesion segmentations were used to train and validate our model. Within this set, OASIS detected lesions with a partial area under the receiver operating characteristic curve for clinically relevant false positive rates of 1{\%} and below of 0.59{\%} (95{\%} CI; [0.50{\%}, 0.67{\%}]) at the voxel level. An experienced MS neuroradiologist compared these segmentations to those produced by LesionTOADS, an image segmentation software that provides segmentation of both lesions and normal brain structures. For lesions, OASIS out-performed LesionTOADS in 74{\%} (95{\%} CI: [65{\%}, 82{\%}]) of cases for the 98 MS subjects. To further validate the method, we applied OASIS to 169 MRI studies acquired at a separate center. The neuroradiologist again compared the OASIS segmentations to those from LesionTOADS. For lesions, OASIS ranked higher than LesionTOADS in 77{\%} (95{\%} CI: [71{\%}, 83{\%}]) of cases. For a randomly selected subset of 50 of these studies, one additional radiologist and one neurologist also scored the images. Within this set, the neuroradiologist ranked OASIS higher than LesionTOADS in 76{\%} (95{\%} CI: [64{\%}, 88{\%}]) of cases, the neurologist 66{\%} (95{\%} CI: [52{\%}, 78{\%}]) and the radiologist 52{\%} (95{\%} CI: [38{\%}, 66{\%}]). OASIS obtains the estimated probability for each voxel to be part of a lesion by weighting each imaging modality with coefficient weights. These coefficients are explicit, obtained using standard model fitting techniques, and can be reused in other imaging studies. This fully automated method allows sensitive and specific detection of lesion presence and may be rapidly applied to large collections of images. ?? 2013 The Authors.}
+      \field{issn}{22131582}
+      \field{journaltitle}{NeuroImage: Clinical}
+      \field{number}{1}
+      \field{title}{OASIS is Automated Statistical Inference for Segmentation, with applications to multiple sclerosis lesion segmentation in MRI}
+      \field{volume}{2}
+      \field{year}{2013}
+      \field{pages}{402\bibrangedash 413}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.nicl.2013.03.002
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sweeney et al. - 2013 - OASIS is Automated Statistical Inference for Segmentation, with applications to multiple sclerosis lesion segmen.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Tomas-Fernandez2015}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7853445de58ea3ebcbdba69a177dd2c0}{%
+           family={Tomas-Fernandez},
+           family_i={T\bibinithyphendelim F\bibinitperiod},
+           given={Xavier},
+           given_i={X\bibinitperiod}}}%
+        {{hash=01974796ce89c67112fda65545ea1468}{%
+           family={Warfield},
+           family_i={W\bibinitperiod},
+           given={Simon\bibnamedelima K},
+           given_i={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe2216b5369a586a534e3b853ac7d048}
+      \strng{fullhash}{e31de54ee942ebab5384a7f8a5e6565a}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{White matter (WM) lesions are thought to play an important role in multiple sclerosis (MS) disease burden. Recent work in the automated segmentation of white matter lesions from magnetic resonance imaging has utilized a model in which lesions are outliers in the distribution of tissue signal intensities across the entire brain of each patient. However, the sensitivity and specificity of lesion detection and segmentation with these approaches have been inadequate. In our analysis, we determined this is due to the substantial overlap between the whole brain signal intensity distribution of lesions and normal tissue. Inspired by the ability of experts to detect lesions based on their local signal intensity characteristics, we propose a new algorithm that achieves lesion and brain tissue segmentation through simultaneous estimation of a spatially global within-the-subject intensity distribution and a spatially local intensity distribution derived from a healthy reference population. We demonstrate that MS lesions can be segmented as outliers from this intensity model of population and subject. We carried out extensive experiments with both synthetic and clinical data, and compared the performance of our new algorithm to those of state-of-the art techniques. We found this new approach leads to a substantial improvement in the sensitivity and specificity of lesion detection and segmentation.}
+      \field{isbn}{0278-0062 VO - 34}
+      \field{issn}{1558254X}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{month}{06}
+      \field{number}{6}
+      \field{title}{A model of population and subject (MOPS) intensities with application to multiple sclerosis lesion segmentation}
+      \field{volume}{34}
+      \field{year}{2015}
+      \field{pages}{1349\bibrangedash 1361}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TMI.2015.2393853
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tomas-Fernandez, Warfield - 2015 - A model of population and subject (MOPS) intensities with application to multiple sclerosis lesion se.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Valverde2016}{article}{}
+      \name{author}{9}{}{%
+        {{hash=b8e6bd246a78e3a3ceecc6e5b09d47ac}{%
+           family={Valverde},
+           family_i={V\bibinitperiod},
+           given={Sergi},
+           given_i={S\bibinitperiod}}}%
+        {{hash=5f2fa14c48d87af68a2e73c6228ca4bb}{%
+           family={Oliver},
+           family_i={O\bibinitperiod},
+           given={Arnau},
+           given_i={A\bibinitperiod}}}%
+        {{hash=9bb8ed1ed51ebe82b9cc4bfd249ad444}{%
+           family={Roura},
+           family_i={R\bibinitperiod},
+           given={Eloy},
+           given_i={E\bibinitperiod}}}%
+        {{hash=2c1f9d44c9d31ed2f44748abd94d54fb}{%
+           family={Gonz\'{a}lez-vill\`{a}},
+           family_i={G\bibinithyphendelim v\bibinitperiod},
+           given={Sandra},
+           given_i={S\bibinitperiod}}}%
+        {{hash=db782faa2f9b092844ba336b99bffc91}{%
+           family={Pareto},
+           family_i={P\bibinitperiod},
+           given={Deborah},
+           given_i={D\bibinitperiod}}}%
+        {{hash=463487f8b390c836b3e65f6bdb800ca7}{%
+           family={Vilanova},
+           family_i={V\bibinitperiod},
+           given={Joan\bibnamedelima C},
+           given_i={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a3e4702ddb90c209539c2dc20129ecdb}{%
+           family={Rami\'{o}-torrent\`{a}},
+           family_i={R\bibinithyphendelim t\bibinitperiod},
+           given={Llu\'{\i{}}s},
+           given_i={L\bibinitperiod}}}%
+        {{hash=10d3c6b9d4924195cabe020ac04f5820}{%
+           family={Rovira},
+           family_i={R\bibinitperiod},
+           given={\`{A}lex},
+           given_i={\`{A}\bibinitperiod}}}%
+        {{hash=030bf2a67dcc79a350234d37e6747699}{%
+           family={Llad\'{o}},
+           family_i={L\bibinitperiod},
+           given={Xavier},
+           given_i={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{aae83d505f945d04097e5c9f71b68224}
+      \strng{fullhash}{da86de59061954eaa1bca222c1205190}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over the last few years, the increasing interest in brain tissue volume measurements on clinical settings has led to the development of a wide number of automated tissue segmentation methods. However, white matter lesions are known to reduce the performance of automated tissue segmentation methods, which requires manual annotation of the lesions and refilling them before segmentation, which is tedious and time-consuming. Here, we propose a new, fully automated T1-w/FLAIR tissue segmentation approach designed to deal with images in the presence of WM lesions. This approach integrates a robust partial volume tissue segmentation with WM outlier rejection and filling, combining intensity and probabilistic and morphological prior maps. We evaluate the performance of this method on the MRBrainS13 tissue segmentation challenge database, which contains images with vascular WM lesions, and also on a set of Multiple Sclerosis (MS) patient images. On both databases, we validate the performance of our method with other state-of-the-art techniques. On the MRBrainS13 data, the presented approach was at the time of submission the best ranked unsupervised intensity model method of the challenge (7th position) and clearly outperformed the other unsupervised pipelines such as FAST and SPM12. On MS data, the differences in tissue segmentation between the images segmented with our method and the same images where manual expert annotations were used to refill lesions on T1-w images before segmentation were lower or similar to the best state-of-the-art pipeline incorporating automated lesion segmentation and filling. Our results show that the proposed pipeline achieved very competitive results on both vascular and MS lesions. A public version of this approach is available to download for the neuro-imaging community.}
+      \field{issn}{1361-8415}
+      \field{journaltitle}{Medical Image Analysis}
+      \field{month}{08}
+      \field{title}{Automated tissue segmentation of MR brain images in the presence of white matter lesions}
+      \field{volume}{35}
+      \field{year}{2017}
+      \field{pages}{446\bibrangedash 457}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.media.2016.08.014
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Valverde et al. - 2017 - Automated tissue segmentation of MR brain images in the presence of white matter lesions.pdf:pdf
+      \endverb
+    \endentry
+    \entry{VanLeemput2001}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e1dd7944b3696fea20256bc94b027221}{%
+           family={{Van Leemput}},
+           family_i={V\bibinitperiod},
+           given={K.},
+           given_i={K\bibinitperiod}}}%
+        {{hash=62c370594d109aca25de0954a6a27164}{%
+           family={Maes},
+           family_i={M\bibinitperiod},
+           given={F.},
+           given_i={F\bibinitperiod}}}%
+        {{hash=9488858715f00108871fe1b19c8c61e0}{%
+           family={Vandermeulen},
+           family_i={V\bibinitperiod},
+           given={D.},
+           given_i={D\bibinitperiod}}}%
+        {{hash=486abd50517c53ad48d2b337a15d1fcc}{%
+           family={Colchester},
+           family_i={C\bibinitperiod},
+           given={A.},
+           given_i={A\bibinitperiod}}}%
+        {{hash=dbdf3583acc4f69f9c459f2998d32431}{%
+           family={Suetens},
+           family_i={S\bibinitperiod},
+           given={P.},
+           given_i={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4138b7ed4029f6d2204fd492ef36e763}
+      \strng{fullhash}{08d129600f204723acdb3d92a00db4e5}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a fully automated algorithm for segmentation of multiple sclerosis (MS) lesions from multispectral magnetic resonance (MR) images. The method performs intensity-based tissue classification using a stochastic model for normal brain images and simultaneously detects MS lesions as outliers that are not well explained by the model. It corrects for MR field inhomogeneities, estimates tissue-specific intensity models from the data itself, and incorporates contextual information in the classification using a Markov random field. The results of the automated method are compared with lesion delineations by human experts, showing a high total lesion load correlation. When the degree of spatial correspondence between segmentations is taken into account, considerable disagreement is found, both between expect segmentations, and between expert and automatic measurements.}
+      \field{journaltitle}{IEEE Transactions on Medical Imaging}
+      \field{number}{8}
+      \field{title}{Automated segmentation of multiple sclerosis lesions by model outlier detection}
+      \field{volume}{20}
+      \field{year}{2001}
+      \field{pages}{677\bibrangedash 688}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/42.938237
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Van Leemput et al. - 2001 - Automated segmentation of multiple sclerosis lesions by model outlier detection.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Wang2015}{article}{}
+      \name{author}{7}{}{%
+        {{hash=9a8e37c2db183faff113a94a5dbc4914}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Rui},
+           given_i={R\bibinitperiod}}}%
+        {{hash=ad699cc0ff44aa8ef2a872dab8e20175}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={Chao},
+           given_i={C\bibinitperiod}}}%
+        {{hash=fcd6114a30fda9801eef65b9d374f56b}{%
+           family={Wang},
+           family_i={W\bibinitperiod},
+           given={Jie},
+           given_i={J\bibinitperiod}}}%
+        {{hash=945cf823b966044258f49a6024435d23}{%
+           family={Wei},
+           family_i={W\bibinitperiod},
+           given={Xiaoer},
+           given_i={X\bibinitperiod}}}%
+        {{hash=ce2fb59195a46278971c4b7890f0caf4}{%
+           family={Li},
+           family_i={L\bibinitperiod},
+           given={Yuehua},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=0a05fc19b4f561d28d60ceec634105c5}{%
+           family={Zhu},
+           family_i={Z\bibinitperiod},
+           given={Yuemin},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=93eeabf019030d6f2af755db68041573}{%
+           family={Zhang},
+           family_i={Z\bibinitperiod},
+           given={Su},
+           given_i={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \strng{namehash}{c5ff78e991b941630ad8aa1f549ad192}
+      \strng{fullhash}{f1e3373162e935250c046924db9ba10f}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{INTRODUCTION: This study aims to develop an automatic segmentation framework on the basis of extreme value distribution (EVD) for the detection and volumetric quantification of white matter hyperintensities (WMHs) on fluid-attenuated inversion recovery (FLAIR) images. METHODS: Two EVD-based segmentation methods, namely the Gumbel and Frechet segmentation, were developed to detect WMHs on FLAIR (slice thickness = 5 mm; TR/TE/TI = 11,000/120/2,800 ms; flip angle = 90 degrees ) images. Another automatic segmentation method using a trimmed likelihood estimator (TLE) was implemented for comparison with our proposed segmentation framework. The performances of the three automatic segmentation methods were evaluated by comparing with the manual segmentation method. RESULTS: The Dice similarity coefficients (DSCs) of the two EVD-based segmentation methods were larger than those of the TLE-based segmentation method (Gumbel, 0.823 +/- 0.063; Frechet, 0.843 +/- 0.057; TLE, 0.817 +/- 0.068), demonstrating that the EVD-based segmentation outperformed the TLE-based segmentation. The Frechet segmentation obtained larger DSCs on patients with moderate to severe lesion loads and a comparable performance on patients with mild lesion loads, indicating that the Frechet segmentation was superior to the Gumbel segmentation. The Gumbel segmentation underestimated the lesion volumes of all patients, whereas the Frechet and TLE-based segmentation methods obtained overestimated lesion volumes (Manual, 13.71 +/- 14.02 cc; Gumbel, 12.73 +/- 13.21 cc; Frechet, 13.88 +/- 13.96 cc; TLE, 13.54 +/- 12.27 cc). Moreover, the EVD-based segmentation was demonstrated to be comparable to other state-of-the-art methods on a publicly available dataset. CONCLUSION: The proposed EVD-based segmentation framework is a promising, effective, and convenient tool for volumetric quantification and further study of WMHs in aging and dementia.}
+      \field{issn}{1432-1920 (Electronic)}
+      \field{journaltitle}{Neuroradiology}
+      \field{month}{03}
+      \field{number}{3}
+      \field{title}{Automatic segmentation and volumetric quantification of white matter hyperintensities on fluid-attenuated inversion recovery images using the extreme value distribution}
+      \field{volume}{57}
+      \field{year}{2015}
+      \field{pages}{307\bibrangedash 320}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/s00234-014-1466-4
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wang et al. - 2015 - Automatic segmentation and volumetric quantification of white matter hyperintensities on fluid-attenuated inversion.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Wels2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1d3836a55413736bc131adddd56aa616}{%
+           family={Wels},
+           family_i={W\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=01724952e8f0a8bb7a369e27498ca3d7}{%
+           family={Huber},
+           family_i={H\bibinitperiod},
+           given={M.},
+           given_i={M\bibinitperiod}}}%
+        {{hash=b5b4d32dd1ae5b3f99769866b61b0294}{%
+           family={Hornegger},
+           family_i={H\bibinitperiod},
+           given={J.},
+           given_i={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {SP MAIK Nauka/Interperiodica}%
+      }
+      \strng{namehash}{7e66061a486ae6692767d75cc2e4fa45}
+      \strng{fullhash}{1028f32674ebb4aca47f1612c287bfb4}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper addresses segmentation of multiple sclerosis lesions in multispectral 3-D brain MRI data. For this purpose, we propose a novel fully automated segmentation framework based on probabilistic boosting trees, which is a recently introduced strategy for supervised learning. By using the context of a voxel to be classified and its transformation to an overcomplete set of Haar-like features, it is possible to capture class specific characteristics despite the well-known drawbacks of MR imaging. By successively selecting and combining the most discriminative features during ensemble boosting within a tree structure, the overall procedure is able to learn a discriminative model for voxel classification in terms of posterior probabilities. The final segmentation is obtained after refining the preliminary result by stochastic relaxation and a standard level set approach. A quantitative evaluation within a leave-one-out validation shows the applicability of the proposed method.}
+      \field{journaltitle}{Pattern Recognition and Image Analysis}
+      \field{month}{06}
+      \field{number}{2}
+      \field{title}{Fully automated segmentation of multiple sclerosis lesions in multispectral MRI}
+      \field{volume}{18}
+      \field{year}{2008}
+      \field{pages}{347\bibrangedash 350}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1134/S1054661808020235
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2008 - Fully Automated Segmentation of Multiple Sclerosis Lesions in Multispectral MRI.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Wu2006}{article}{}
+      \name{author}{8}{}{%
+        {{hash=22fd84b8276575e01ba678bb2095dc23}{%
+           family={Wu},
+           family_i={W\bibinitperiod},
+           given={Ying},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=01974796ce89c67112fda65545ea1468}{%
+           family={Warfield},
+           family_i={W\bibinitperiod},
+           given={Simon\bibnamedelima K},
+           given_i={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=8a4be1bc453548a1e6968bfaee30502b}{%
+           family={Tan},
+           family_i={T\bibinitperiod},
+           given={I\bibnamedelima Leng},
+           given_i={I\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5993b159bd583c1bbc83312bc37d0e98}{%
+           family={Wells},
+           family_i={W\bibinitperiod},
+           given={William\bibnamedelima M},
+           given_i={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=66fac248b216fb376671711d67b59512}{%
+           family={Meier},
+           family_i={M\bibinitperiod},
+           given={Dominik\bibnamedelima S},
+           given_i={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a6916bc576f588b18ad5e82fc5bbef3a}{%
+           prefix={van},
+           prefix_i={v\bibinitperiod},
+           family={Schijndel},
+           family_i={S\bibinitperiod},
+           given={Ronald\bibnamedelima A},
+           given_i={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=28650b188d5c5d3bc398f51f2e53d7cf}{%
+           family={Barkhof},
+           family_i={B\bibinitperiod},
+           given={Frederik},
+           given_i={F\bibinitperiod}}}%
+        {{hash=81a16bf47399716ba3b4119b19cd9c60}{%
+           family={Guttmann},
+           family_i={G\bibinitperiod},
+           given={Charles\bibnamedelimb R\bibnamedelima G},
+           given_i={C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{626d28be86a459b8197a085a23e900e9}
+      \strng{fullhash}{dc04270dba47a105db23734acb5a7a7d}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose.: To automatically segment multiple sclerosis (MS) lesions into three subtypes (i.e., enhancing lesions, T1 "black holes", T2 hyperintense lesions). Materials and methods.: Proton density-, T2- and contrast-enhanced T1-weighted brain images of 12 MR scans were pre-processed through intracranial cavity (IC) extraction, inhomogeneity correction and intensity normalization. Intensity-based statistical k-nearest neighbor (k-NN) classification was combined with template-driven segmentation and partial volume artifact correction (TDS+) for segmentation of MS lesions subtypes and brain tissue compartments. Operator-supervised tissue sampling and parameter calibration were performed on 2 randomly selected scans and were applied automatically to the remaining 10 scans. Results from this three-channel TDS+ (3ch-TDS+) were compared to those from a previously validated two-channel TDS+ (2ch-TDS+) method. The results of both the 3ch-TDS+ and 2ch-TDS+ were also compared to manual segmentation performed by experts. Results.: Intra-class correlation coefficients (ICC) of 3ch-TDS+ for all three subtypes of lesions were higher (ICC between 0.95 and 0.96) than that of 2ch-TDS+ for T2 lesions (ICC??=??0.82). The 3ch-TDS+ also identified the three lesion subtypes with high specificity (98.7-99.9{\%}) and accuracy (98.5-99.9{\%}). Sensitivity of 3ch-TDS+ for T2 lesions was 16{\%} higher than with 2ch-TDS+. Enhancing lesions were segmented with the best sensitivity (81.9{\%}). "Black holes" were segmented with the least sensitivity (62.3{\%}). Conclusion.: 3ch-TDS+ is a promising method for automated segmentation of MS lesion subtypes. ?? 2006 Elsevier Inc. All rights reserved.}
+      \field{isbn}{1053-8119}
+      \field{issn}{10538119}
+      \field{journaltitle}{NeuroImage}
+      \field{month}{09}
+      \field{number}{3}
+      \field{title}{Automated segmentation of multiple sclerosis lesion subtypes with multichannel MRI}
+      \field{volume}{32}
+      \field{year}{2006}
+      \field{pages}{1205\bibrangedash 1215}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2006.04.211
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu et al. - 2006 - Automated segmentation of multiple sclerosis lesion subtypes with multichannel MRI.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Yoo2014}{article}{}
+      \name{author}{10}{}{%
+        {{hash=7bbd8d7de30d6927d5d5fc54b507067f}{%
+           family={Yoo},
+           family_i={Y\bibinitperiod},
+           given={Byung\bibnamedelima Il},
+           given_i={B\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=1e5fd0a17c452f00698b9c9bbee3e047}{%
+           family={Lee},
+           family_i={L\bibinitperiod},
+           given={Jung\bibnamedelima Jae},
+           given_i={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=44483908235a50bdd74b68020ceb0c00}{%
+           family={Han},
+           family_i={H\bibinitperiod},
+           given={Ji\bibnamedelima Won},
+           given_i={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=2059a8a51b0c050f0d489146ba9c48f0}{%
+           family={Oh},
+           family_i={O\bibinitperiod},
+           given={San\bibnamedelimb Yeo\bibnamedelima Wool},
+           given_i={S\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=e4625a44e46a8788d667a61da30707b1}{%
+           family={Lee},
+           family_i={L\bibinitperiod},
+           given={Eun\bibnamedelima Young},
+           given_i={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=70eccd8ab9d9051e8666e117bfda8406}{%
+           family={MacFall},
+           family_i={M\bibinitperiod},
+           given={James\bibnamedelima R.},
+           given_i={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4b9e5155a840e0086d942914cb83aab4}{%
+           family={Payne},
+           family_i={P\bibinitperiod},
+           given={Martha\bibnamedelima E.},
+           given_i={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3c7dd48f88e2da0d36999c3982bea8e6}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Tae\bibnamedelima Hui},
+           given_i={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=6a9517d445f7601ca92000ede6387d48}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Jae\bibnamedelima Hyoung},
+           given_i={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=4ad08122775d86042aa53c45ecda94aa}{%
+           family={Kim},
+           family_i={K\bibinitperiod},
+           given={Ki\bibnamedelima Woong},
+           given_i={K\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{6981f0adfe677a87fdf222f3a90f9420}
+      \strng{fullhash}{5fecaefa11bc0648d3135785fc7d815c}
+      \field{sortinit}{Y}
+      \field{sortinithash}{3cbc1e3d286284cedb5e5218a3248f94}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{INTRODUCTION: White matter hyperintensities (WMHs) are regions of abnormally high intensity on T2-weighted or fluid-attenuated inversion recovery (FLAIR) magnetic resonance imaging (MRI). Accurate and reproducible automatic segmentation of WMHs is important since WMHs are often seen in the elderly and are associated with various geriatric and psychiatric disorders.$\backslash$n$\backslash$nMETHODS: We developed a fully automated monospectral segmentation method for WMHs using FLAIR MRIs. Through this method, we introduce an optimal threshold intensity (I O ) for segmenting WMHs, which varies with WMHs volume (V WMH), and we establish the I O -V WMH relationship.$\backslash$n$\backslash$nRESULTS: Our method showed accurate validations in volumetric and spatial agreements of automatically segmented WMHs compared with manually segmented WMHs for 32 confirmatory images. Bland-Altman values of volumetric agreement were 0.96 \x{fffd}\x{fffd} 8.311 ml (bias and 95 {\%} confidence interval), and the similarity index of spatial agreement was 0.762 \x{fffd}\x{fffd} 0.127 (mean \x{fffd}\x{fffd} standard deviation). Furthermore, similar validation accuracies were obtained in the images acquired from different scanners.$\backslash$n$\backslash$nCONCLUSIONS: The proposed segmentation method uses only FLAIR MRIs, has the potential to be accurate with images obtained from different scanners, and can be implemented with a fully automated procedure. In our study, validation results were obtained with FLAIR MRIs from only two scanner types. The design of the method may allow its use in large multicenter studies with correct efficiency.}
+      \field{issn}{14321920}
+      \field{journaltitle}{Neuroradiology}
+      \field{number}{4}
+      \field{title}{Application of variable threshold intensity to segmentation for white matter hyperintensities in fluid attenuated inversion recovery magnetic resonance images}
+      \field{volume}{56}
+      \field{year}{2014}
+      \field{pages}{265\bibrangedash 281}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/s00234-014-1322-6
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Jesse/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/2014 - Application of variable threshold intensity to segmentation for white matter hyperintensities in fluid attenuated inversion recovery magnetic resonance images.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Zhan2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5c2a423bf9756573eb3f0b16a5762d43}{%
+           family={Zhan},
+           family_i={Z\bibinitperiod},
+           given={Tianming},
+           given_i={T\bibinitperiod}}}%
+        {{hash=bd26f484cc0542ccd5c75cda6c79ac27}{%
+           family={Yu},
+           family_i={Y\bibinitperiod},
+           given={Renping},
+           given_i={R\bibinitperiod}}}%
+        {{hash=61a21d8aba7853cbf9f3f099c48b174f}{%
+           family={Zheng},
+           family_i={Z\bibinitperiod},
+           given={Yu},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=a3f7f072fc72e977f50f0a3cb6ff03b9}{%
+           family={Zhan},
+           family_i={Z\bibinitperiod},
+           given={Yongzhao},
+           given_i={Y\bibinitperiod}}}%
+        {{hash=5f7cee4818d5ce7cf8a02d7f9f952d0c}{%
+           family={Xiao},
+           family_i={X\bibinitperiod},
+           given={Liang},
+           given_i={L\bibinitperiod}}}%
+        {{hash=876870257b99ffef71e8b0a116fac2e4}{%
+           family={Wei},
+           family_i={W\bibinitperiod},
+           given={Zhihui},
+           given_i={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2cc702b4a267540887e4a468d219bbc}
+      \strng{fullhash}{f5a45eb491b7f66fe6ca443959cc331a}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{OBJECTIVE Multi-sequence magnetic resonance (MR) imaging is a frequently used method for characterising and quantifying white matter (WM) lesions in the human brain. The number and size of lesions are commonly determined to assess the diseases in clinical settings. Accurate WM lesion segmentation is very important for disease diagnosis and progression surveillance. The goal of this paper is to present an approach for improving WM lesion segmentation accuracy. METHODS In this paper, we propose a novel method integrating the multi-sequence and spatial information in a Bayesian framework for WM lesion detection from multi-sequence human brain magnetic resonance images (MRIs). The entire framework is based on a three-step approach: First, a multinomial logistic regression (MLR) algorithm is used to assess the conditional probability distributions of intensities in WM lesions and brain tissues from training data. Second, the spatial information previously given by a Markov random field (MRF) prior is integrated with multimodal information in the Bayesian framework to strengthen the spatial constraint. This step is especially effective when WM lesions have intensity values similar to those of other brain tissues. Finally, a post-processing step based on biological knowledge is used to remove some false positives. RESULTS Our method is validated using two datasets. The experimental results show that our algorithm agrees well with manual expert labelling and indicate that our multimodal spatial-based method offers a significant advantage over other approaches. CONCLUSIONS A three-step approach for combining multimodal and spatial information is proposed for WM lesion segmentation. The advantages of this approach are discussed, and a practical application to two datasets is presented.}
+      \field{journaltitle}{Biomedical Signal Processing and Control}
+      \field{title}{Multimodal spatial-based segmentation framework for white matter lesions in multi-sequence magnetic resonance images}
+      \field{volume}{31}
+      \field{year}{2017}
+      \field{pages}{52\bibrangedash 62}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.bspc.2016.06.016
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhan et al. - 2017 - Multimodal spatial-based segmentation framework for white matter lesions in multi-sequence magnetic resonance image.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Zijdenbos2002}{article}{}
+      \name{author}{3}{}{%
+        {{hash=75cff3ffdb5de51aa90ae27bf41688bc}{%
+           family={Zijdenbos},
+           family_i={Z\bibinitperiod},
+           given={Alex\bibnamedelima P},
+           given_i={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=56fb8f9a6ab030cbd5f385959b56e2a3}{%
+           family={Forghani},
+           family_i={F\bibinitperiod},
+           given={Reza},
+           given_i={R\bibinitperiod}}}%
+        {{hash=4e172bd78c97b6573f166ea521e0144e}{%
+           family={Evans},
+           family_i={E\bibinitperiod},
+           given={Alan\bibnamedelima C},
+           given_i={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c25c6f642a44930dd77dbcd3dffb2e0f}
+      \strng{fullhash}{58ab8b07d5a0a65d5ec66cb9e8fd8abb}
+      \field{sortinit}{Z}
+      \field{sortinithash}{fdda4caaa6b5fa63e0c081dcb159543a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The quantitative analysis of magnetic resonance imaging (MRI) data has become increasingly important in both research and clinical studies aiming at human brain development, function, and pathology. Inevitably, the role of quantitative image analysis in the evaluation of drug therapy will increase, driven in part by requirements imposed by regulatory agencies. However, the prohibitive length of time involved and the significant intraand inter-rater variability of the measurements obtained from manual analysis of large MRI databases represent major obstacles to the wider application of quantitative MRI analysis. We have developed a fully automatic "pipeline" image analysis framework and have successfully applied it to a number of large-scale, multicenter studies (more than 1,000 MRI scans). This pipeline system is based on robust image processing algorithms, executed in a parallel, distributed fashion. This paper describes the application of this system to the automatic quantification of multiple sclerosis lesion load in MRI, in the context of a phase III clinical trial. The pipeline results were evaluated through an extensive validation study, revealing that the obtained lesion measurements are statistically indistinguishable from those obtained by trained human observers. Given that intra- and inter-rater measurement variability is eliminated by automatic analysis, this system enhances the ability to detect small treatment effects not readily detectable through conventional analysis techniques. While useful for clinical trial analysis in multiple sclerosis, this system holds widespread potential for applications in other neurological disorders, as well as for the study of neurobiology in general.}
+      \field{journaltitle}{IEEE transactions on medical imaging}
+      \field{month}{10}
+      \field{number}{10}
+      \field{title}{Automatic pipeline analysis of 3-D MRI data for clinical trials: application to multiple sclerosis}
+      \field{volume}{21}
+      \field{year}{2002}
+      \field{pages}{1280\bibrangedash 91}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/TMI.2002.806283
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/jesse/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zijdenbos, Forghani, Evans - 2002 - Automatic {\&}quotpipeline{\&}quot analysis of 3-D MRI data for clinical trials application to multiple sc.pdf:pdf
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
