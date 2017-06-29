@@ -35,8 +35,12 @@ class BibTable:
         for fmt in self.fmts:
           for tmp in self.templates.keys():
             if file == tmp+'.'+fmt:
-              self.templates[tmp][fmt] = Template(tmp,os.path.join(root,file))
-              vupdate("Found template: "+tmp+"."+fmt,self.verbose)
+              if self.templates[tmp][fmt] is None:
+                self.templates[tmp][fmt] = Template(tmp,os.path.join(root,file))
+                vupdate("Found template: "+tmp+"."+fmt,self.verbose)
+              else:
+                error("More than template: "+tmp+"."+fmt+" found.")
+      break # only one dir deep
 
   def csv_to_bib(self,task):
     if task == 'add':
@@ -72,7 +76,7 @@ class BibTable:
           error("Paper key: "+entry['id']+" not in bibfile")
     vupdate("Updating bibfile...",self.verbose)
     with open(self.bibfile,'w') as fo:
-      fo.write(bib.dumps(bibdata).encode('utf8'))
+      fo.write(bib.dumps(bibdata).encode('utf-8'))
     update("Done.")
 
   def bib_to_table(self,fmt,outfile):
@@ -85,7 +89,8 @@ class BibTable:
       error("Please provide the template: entry."+fmt+" in INDIR")
     vupdate("Loading bibfile...",self.verbose)
     with open(self.bibfile) as fb:
-      bibdata = bib.load(fb)
+      bibfile = fb.read()
+      bibdata = bib.loads(bibfile)
       publications = {}
       for entry in bibdata.entries_dict.values():
         publications.update({entry.get('ID'):Publication(entry,fmt)})
@@ -101,7 +106,7 @@ class BibTable:
         D['table'][key+':*'] = D['table'].pop(key)
     entrystr = ''
     vupdate("Creating table entries...",self.verbose)
-    for id in publications.keys():
+    for id in sorted(publications.keys(), key=lambda k: publications.get(k).print_year()):
       vupdate("- "+id,self.verbose)
       D['entry'] = publications[id].dict(K['entry'])
       entrystr += self.templates['entry'][fmt].get_sub_content(D['entry'])
